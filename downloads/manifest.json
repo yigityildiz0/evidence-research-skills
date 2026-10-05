@@ -58,7 +58,7 @@
       "Claude": 6
     },
     "ai-research-skills": {
-      "common": 430,
+      "common": 431,
       "GPT": 96,
       "Claude": 96
     },
@@ -111,7 +111,7 @@
     "packages/codex/primary-source-research.zip": "a7e70599cdd9ee959775a36e8865c643fdd3ada670228cfebe12c724b0eb7698",
     "packages/codex/research-analyst.zip": "863bf4efcb1f5bca2b326f20b75f15aa6f712b4ea62710391fa610637b95fb70",
     "packages/common/academic-study-coach.zip": "9c7cba085716ab442adb81c21d2e2dc088c2647a7f50a76194b4bd62c2ef3d53",
-    "packages/common/ai-research-skills.zip": "785d4013ead9c807c50f10a83331f9b6082f93cadbac3979b3bc97d2a75616b1",
+    "packages/common/ai-research-skills.zip": "fcc4e1d6014e92175b2a654b21c88a8aaaee1b486e4018c265eb6bff29e41331",
     "packages/common/data-analyst.zip": "e90550581e9d341e0763d71d294b7f16c8af78032e73daaba7d3180fdf1c015d",
     "packages/common/gemini-deep-research.zip": "239a6a9ec92c2096e6395f91d177ecd86dd919fb745639333e902ac25ac59b2e",
     "packages/common/graphify.zip": "88506381c0fafb652f56f89e512423f1493f357b36d52ee9f41f64aeb4a37496",
