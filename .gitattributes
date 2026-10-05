@@ -1,0 +1,4 @@
+* text=auto
+*.zip -text
+**/LICENSE* -text
+**/NOTICE* -text
