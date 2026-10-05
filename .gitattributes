@@ -2,3 +2,39 @@
 *.zip -text
 **/LICENSE* -text
 **/NOTICE* -text
+
+# CURRENT PROVIDER PAYLOAD BYTES
+# Packages and checked-out provider sources must have identical bytes on every OS.
+skills/common/medical-evidence-research/** -text
+skills/codex/medical-evidence-research/** -text
+skills/claude/medical-evidence-research/** -text
+skills/common/physio-clinical-copilot/** -text
+skills/codex/physio-clinical-copilot/** -text
+skills/claude/physio-clinical-copilot/** -text
+skills/common/research-analyst/** -text
+skills/codex/research-analyst/** -text
+skills/claude/research-analyst/** -text
+skills/common/primary-source-research/** -text
+skills/codex/primary-source-research/** -text
+skills/claude/primary-source-research/** -text
+skills/common/gemini-deep-research/** -text
+skills/codex/gemini-deep-research/** -text
+skills/claude/gemini-deep-research/** -text
+skills/common/parallel-web/** -text
+skills/codex/parallel-web/** -text
+skills/claude/parallel-web/** -text
+skills/common/academic-study-coach/** -text
+skills/codex/academic-study-coach/** -text
+skills/claude/academic-study-coach/** -text
+skills/common/data-analyst/** -text
+skills/codex/data-analyst/** -text
+skills/claude/data-analyst/** -text
+skills/common/ai-research-skills/** -text
+skills/codex/ai-research-skills/** -text
+skills/claude/ai-research-skills/** -text
+skills/common/graphify/** -text
+skills/codex/graphify/** -text
+skills/claude/graphify/** -text
+skills/common/office-docs-qa/** -text
+skills/codex/office-docs-qa/** -text
+skills/claude/office-docs-qa/** -text
