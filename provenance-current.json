@@ -1,0 +1,1820 @@
+{
+  "edition": "2026.10.11",
+  "files": [
+    {
+      "path": "academic-study-coach/modules/academic-presentations/MODULE.md",
+      "source_sha256": "463e11f3885cccfbf4bfd61cdc13fad659064283aeb26f4d017b591bf3f1f1b5",
+      "published_sha256": "463e11f3885cccfbf4bfd61cdc13fad659064283aeb26f4d017b591bf3f1f1b5",
+      "bytes": 2333,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/academic-writing/LICENSE",
+      "source_sha256": "c4c2cb62e1646dc8eb2943dd8ffc4e11132e49676117b61e8370398f18205d72",
+      "published_sha256": "c4c2cb62e1646dc8eb2943dd8ffc4e11132e49676117b61e8370398f18205d72",
+      "bytes": 1089,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/academic-writing/MODULE.md",
+      "source_sha256": "522332c97d52ad3052f386cb3f6087486f2e4ae7899bcf7583322a0140b8134c",
+      "published_sha256": "522332c97d52ad3052f386cb3f6087486f2e4ae7899bcf7583322a0140b8134c",
+      "bytes": 29081,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/notebooklm-prompt-architect/evals/trigger-cases.json",
+      "source_sha256": "bf88d50944d4826516f1726801bf3b74fcf9ce1de64745f232cdc362d6238d78",
+      "published_sha256": "bf88d50944d4826516f1726801bf3b74fcf9ce1de64745f232cdc362d6238d78",
+      "bytes": 1353,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/notebooklm-prompt-architect/examples/audio-overview-prompt.md",
+      "source_sha256": "8c49ff411349802c06b4494a26e9590da7fb7b6d812171c1a8d4bfc79645ff0d",
+      "published_sha256": "8c49ff411349802c06b4494a26e9590da7fb7b6d812171c1a8d4bfc79645ff0d",
+      "bytes": 732,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/notebooklm-prompt-architect/examples/dense-study-note-prompt.md",
+      "source_sha256": "047fa9552aa981695795cd641bb08c398f565a7b10cc464ad3567cbcb993ba2e",
+      "published_sha256": "047fa9552aa981695795cd641bb08c398f565a7b10cc464ad3567cbcb993ba2e",
+      "bytes": 842,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/notebooklm-prompt-architect/examples/quiz-clinical-vignette-prompt.md",
+      "source_sha256": "f3aff19d6766a089472219d7f0d66bf5ef6f5fdcb07fc426cd711c135622ea97",
+      "published_sha256": "f3aff19d6766a089472219d7f0d66bf5ef6f5fdcb07fc426cd711c135622ea97",
+      "bytes": 694,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/notebooklm-prompt-architect/examples/slide-deck-prompt.md",
+      "source_sha256": "22856c121b5213654b2ca267b8ce3d768f94be9d1f1885ce2abec26442fb5b61",
+      "published_sha256": "22856c121b5213654b2ca267b8ce3d768f94be9d1f1885ce2abec26442fb5b61",
+      "bytes": 792,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/notebooklm-prompt-architect/MODULE.md",
+      "source_sha256": "9d867bd8b9b0b41328920adbbbeb26185cb825535a7f82c3a06db1a1d80ed487",
+      "published_sha256": "9d867bd8b9b0b41328920adbbbeb26185cb825535a7f82c3a06db1a1d80ed487",
+      "bytes": 4154,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/notebooklm-prompt-architect/README.md",
+      "source_sha256": "0d3afd3d8bf1420914cdc0d5f9412142b7cbb60d3893d818eafde8496286df2b",
+      "published_sha256": "0d3afd3d8bf1420914cdc0d5f9412142b7cbb60d3893d818eafde8496286df2b",
+      "bytes": 1276,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/notebooklm-prompt-architect/references/notebooklm-artifact-templates.md",
+      "source_sha256": "6eb661c44c57cd053ea1a96fa9cd38dc71bfde120a996bf7d275a95519b1ae5d",
+      "published_sha256": "6eb661c44c57cd053ea1a96fa9cd38dc71bfde120a996bf7d275a95519b1ae5d",
+      "bytes": 7478,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/notebooklm-prompt-architect/references/prompt-architecture.md",
+      "source_sha256": "c275a2f81640855c76038c2f5396d44f56206f608de7881e79da262d60e38ffe",
+      "published_sha256": "c275a2f81640855c76038c2f5396d44f56206f608de7881e79da262d60e38ffe",
+      "bytes": 4343,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/notebooklm-prompt-architect/references/prompt-patterns.md",
+      "source_sha256": "18d286de4a97bc645ba3468d7bb7b2bce0231954dd83ce595d667748a932fed3",
+      "published_sha256": "18d286de4a97bc645ba3468d7bb7b2bce0231954dd83ce595d667748a932fed3",
+      "bytes": 2761,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/notebooklm-prompt-architect/references/quality-checklist.md",
+      "source_sha256": "b329468bd91b199e269c1998334fa2c22d24fe88fc76b4cd803a73acc3cd12b9",
+      "published_sha256": "b329468bd91b199e269c1998334fa2c22d24fe88fc76b4cd803a73acc3cd12b9",
+      "bytes": 1965,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/notebooklm-prompt-architect/references/source-strategy.md",
+      "source_sha256": "cc9c57943b0dbda77e3f869f91e114d88f101df50d89fc1c52611cb995cac6f9",
+      "published_sha256": "cc9c57943b0dbda77e3f869f91e114d88f101df50d89fc1c52611cb995cac6f9",
+      "bytes": 3502,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/notebooklm-prompt-architect/references/study-exam-playbooks.md",
+      "source_sha256": "9f30ca2523f97d11756b088d649bc5320f5389f4c74166ec70023c914d72e3aa",
+      "published_sha256": "9f30ca2523f97d11756b088d649bc5320f5389f4c74166ec70023c914d72e3aa",
+      "bytes": 4107,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/notebooklm-prompt-architect/SOURCES.md",
+      "source_sha256": "6a7468b457122eaeab50f043ee547e7651ace207d8f25e51ec425ed7b8c421f1",
+      "published_sha256": "6a7468b457122eaeab50f043ee547e7651ace207d8f25e51ec425ed7b8c421f1",
+      "bytes": 1739,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/physio-clinical-english/MODULE.md",
+      "source_sha256": "ccd89d7469eb7318cce2a168b5702f11a618b8e531e6428b98d15988b920f7e6",
+      "published_sha256": "ccd89d7469eb7318cce2a168b5702f11a618b8e531e6428b98d15988b920f7e6",
+      "bytes": 4473,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/physio-clinical-english/references/contextual-teaching.md",
+      "source_sha256": "d04ed1188c9f1f05f19e2eec5a7fef07903402742f46b15121934a9f02ad57aa",
+      "published_sha256": "d04ed1188c9f1f05f19e2eec5a7fef07903402742f46b15121934a9f02ad57aa",
+      "bytes": 3721,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/physio-clinical-english/references/handoff-contract.md",
+      "source_sha256": "536e41f88e463fd17fa002afa0a73d2c9d43df862681a20597e27c0100f272cc",
+      "published_sha256": "536e41f88e463fd17fa002afa0a73d2c9d43df862681a20597e27c0100f272cc",
+      "bytes": 1268,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/physio-clinical-english/references/safety-core.md",
+      "source_sha256": "d9928416c1342181d01fd5618e70f7c4a68f44a4ed2d7881b3437f393b9f023a",
+      "published_sha256": "d9928416c1342181d01fd5618e70f7c4a68f44a4ed2d7881b3437f393b9f023a",
+      "bytes": 7135,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/physio-clinical-english/references/specialty-safeguards.md",
+      "source_sha256": "9b7d9a672e51b52776acb936146cfb7f6671d4018c30d9a359c4506d3b1289ad",
+      "published_sha256": "9b7d9a672e51b52776acb936146cfb7f6671d4018c30d9a359c4506d3b1289ad",
+      "bytes": 7800,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/physio-study-coach/evals/trigger-cases.json",
+      "source_sha256": "d067428eb154c54e56ec21b2c73566fce9e86a4b73b4ca8f6d6885e8e9a0679a",
+      "published_sha256": "d067428eb154c54e56ec21b2c73566fce9e86a4b73b4ca8f6d6885e8e9a0679a",
+      "bytes": 1387,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/modules/physio-study-coach/MODULE.md",
+      "source_sha256": "d77e258fbeadb9873630059559e9c10ccbe534c4d80f96bbef3fe53b1ae73437",
+      "published_sha256": "645023e45e8fcc11c6b0e091411558acc6153ded7b3d823ed0c007e51d2eab6e",
+      "bytes": 4240,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "academic-study-coach/modules/physio-study-coach/references/study-system.md",
+      "source_sha256": "08844c08c42f8566f615f8a1a130c91a306a0e915b72f0a0b92284d1c493b4c1",
+      "published_sha256": "08844c08c42f8566f615f8a1a130c91a306a0e915b72f0a0b92284d1c493b4c1",
+      "bytes": 2655,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/references/literature-practice.md",
+      "source_sha256": "ec69a0fef2767c7abdc5caea3b46714a318e2d1b2b649131e22de9627360145f",
+      "published_sha256": "ec69a0fef2767c7abdc5caea3b46714a318e2d1b2b649131e22de9627360145f",
+      "bytes": 2217,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "academic-study-coach/SKILL.md",
+      "source_sha256": "45c2772f7b5de27beef361908e9bc0955090fde1c01601f8e5ea15650d511710",
+      "published_sha256": "f3babfacd400e2a76944bb9799e7021fdbb5808f5824e049239c44fc1c28e9e3",
+      "bytes": 7425,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "data-analyst/modules/data-analysis/MODULE.md",
+      "source_sha256": "fec87b0b0fc41dc55c6cf86a460b9be9795450bffd5a7ed34d670e4c078aac7b",
+      "published_sha256": "fec87b0b0fc41dc55c6cf86a460b9be9795450bffd5a7ed34d670e4c078aac7b",
+      "bytes": 1201,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "data-analyst/modules/data-context/MODULE.md",
+      "source_sha256": "e1695401c28d03706ba2a411472e6ec1721182c93eeb6eeaf601bf7c34216157",
+      "published_sha256": "e1695401c28d03706ba2a411472e6ec1721182c93eeb6eeaf601bf7c34216157",
+      "bytes": 1103,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "data-analyst/modules/data-dashboard/MODULE.md",
+      "source_sha256": "dd0cacd5e399efa9f61020f5c614a273b9c2dac120fd072f78c8a39958599c66",
+      "published_sha256": "dd0cacd5e399efa9f61020f5c614a273b9c2dac120fd072f78c8a39958599c66",
+      "bytes": 1236,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "data-analyst/modules/data-visualization-playbook/MODULE.md",
+      "source_sha256": "446041a958a4e02e06b75d61d9f09cfbe275dd186c2027f10e00f346685b411d",
+      "published_sha256": "446041a958a4e02e06b75d61d9f09cfbe275dd186c2027f10e00f346685b411d",
+      "bytes": 1327,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "data-analyst/modules/sql-analytics-workflow/MODULE.md",
+      "source_sha256": "a3f984af3f0f3b3ad9b2c815e44bf1755c4a0734ce5671a66fac125e02ecb4ff",
+      "published_sha256": "a3f984af3f0f3b3ad9b2c815e44bf1755c4a0734ce5671a66fac125e02ecb4ff",
+      "bytes": 1281,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "data-analyst/SKILL.md",
+      "source_sha256": "876f469aa8d5a27f4d17d3b4711485c42772cb7f7cff4b18b2583e71b668b147",
+      "published_sha256": "6a2346743e441cefbcfd521a468aee9bd6db871b6044b0e8d17f6907fae2f933",
+      "bytes": 3029,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "medical-evidence-research/assets/icon.svg",
+      "source_sha256": "0cdb7990dea3ad89ead04743eeac2dc58c119fb0b8b4a01499a21237f155bc1a",
+      "published_sha256": "0cdb7990dea3ad89ead04743eeac2dc58c119fb0b8b4a01499a21237f155bc1a",
+      "bytes": 843,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/evals/acceptance-cases.json",
+      "source_sha256": "5d25ed51c0c590a86d2440060441df59c5b5ed4a44d8c35f98dc66e16fd32b6d",
+      "published_sha256": "5d25ed51c0c590a86d2440060441df59c5b5ed4a44d8c35f98dc66e16fd32b6d",
+      "bytes": 2932,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/content-access/LICENSE",
+      "source_sha256": "c4c2cb62e1646dc8eb2943dd8ffc4e11132e49676117b61e8370398f18205d72",
+      "published_sha256": "c4c2cb62e1646dc8eb2943dd8ffc4e11132e49676117b61e8370398f18205d72",
+      "bytes": 1089,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/content-access/MODULE.md",
+      "source_sha256": "b4eeb7f0e5ef6d2a89617b1b243129deebaef51a8412dadc5e9e33c329e70137",
+      "published_sha256": "b4eeb7f0e5ef6d2a89617b1b243129deebaef51a8412dadc5e9e33c329e70137",
+      "bytes": 28850,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/physio-evidence-search/MODULE.md",
+      "source_sha256": "d7cb66dd809e3bf82ed0e74df4c124bce3b29ed7169e528238b24ca1fa892e88",
+      "published_sha256": "d7cb66dd809e3bf82ed0e74df4c124bce3b29ed7169e528238b24ca1fa892e88",
+      "bytes": 4530,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/physio-evidence-search/references/handoff-contract.md",
+      "source_sha256": "ec5fc57d9cea860a2899209c3233f12614fe165df752bb7fb296676c8f38c2de",
+      "published_sha256": "ec5fc57d9cea860a2899209c3233f12614fe165df752bb7fb296676c8f38c2de",
+      "bytes": 1373,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/physio-evidence-search/references/methods-and-sources.md",
+      "source_sha256": "5bd2870e8d27b1e7448632627dfbf9843e20252ac623e6b0dede3c80b90dcff5",
+      "published_sha256": "5bd2870e8d27b1e7448632627dfbf9843e20252ac623e6b0dede3c80b90dcff5",
+      "bytes": 6424,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/physio-evidence-search/references/safety-core.md",
+      "source_sha256": "d9928416c1342181d01fd5618e70f7c4a68f44a4ed2d7881b3437f393b9f023a",
+      "published_sha256": "d9928416c1342181d01fd5618e70f7c4a68f44a4ed2d7881b3437f393b9f023a",
+      "bytes": 7135,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/physio-evidence-search/references/specialty-safeguards.md",
+      "source_sha256": "9b7d9a672e51b52776acb936146cfb7f6671d4018c30d9a359c4506d3b1289ad",
+      "published_sha256": "9b7d9a672e51b52776acb936146cfb7f6671d4018c30d9a359c4506d3b1289ad",
+      "bytes": 7800,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/physio-study-appraisal/MODULE.md",
+      "source_sha256": "f5320731803b6bd2e9ed92b23c9db4c24fb52b468bac7505d9be0efd5df9a210",
+      "published_sha256": "f5320731803b6bd2e9ed92b23c9db4c24fb52b468bac7505d9be0efd5df9a210",
+      "bytes": 4914,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/physio-study-appraisal/references/design-and-appraisal.md",
+      "source_sha256": "87393f526106a39e6fa3b9e488784d4d2fab39fc1677db7cf377d57cba438801",
+      "published_sha256": "87393f526106a39e6fa3b9e488784d4d2fab39fc1677db7cf377d57cba438801",
+      "bytes": 6326,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/physio-study-appraisal/references/handoff-contract.md",
+      "source_sha256": "ec5fc57d9cea860a2899209c3233f12614fe165df752bb7fb296676c8f38c2de",
+      "published_sha256": "ec5fc57d9cea860a2899209c3233f12614fe165df752bb7fb296676c8f38c2de",
+      "bytes": 1373,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/physio-study-appraisal/references/safety-core.md",
+      "source_sha256": "d9928416c1342181d01fd5618e70f7c4a68f44a4ed2d7881b3437f393b9f023a",
+      "published_sha256": "d9928416c1342181d01fd5618e70f7c4a68f44a4ed2d7881b3437f393b9f023a",
+      "bytes": 7135,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/physio-study-appraisal/references/specialty-safeguards.md",
+      "source_sha256": "9b7d9a672e51b52776acb936146cfb7f6671d4018c30d9a359c4506d3b1289ad",
+      "published_sha256": "9b7d9a672e51b52776acb936146cfb7f6671d4018c30d9a359c4506d3b1289ad",
+      "bytes": 7800,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/scientific-literature-review/agents/openai.yaml",
+      "source_sha256": "5efd939412a24b7239faab3bece0e27bdf36b17bd165f59374ad505606a1da7e",
+      "published_sha256": "5efd939412a24b7239faab3bece0e27bdf36b17bd165f59374ad505606a1da7e",
+      "bytes": 241,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/scientific-literature-review/LICENSE.txt",
+      "source_sha256": "5c793d8fe1c553d49c305f3c178ac360b6d32607bdf1bca06b10d3ba9881d78f",
+      "published_sha256": "5c793d8fe1c553d49c305f3c178ac360b6d32607bdf1bca06b10d3ba9881d78f",
+      "bytes": 1088,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/scientific-literature-review/MODULE.md",
+      "source_sha256": "c1a780672d85d0c3722a96b412ffeeff5487356f192ad39c1b83514e142b03e6",
+      "published_sha256": "c1a780672d85d0c3722a96b412ffeeff5487356f192ad39c1b83514e142b03e6",
+      "bytes": 5681,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/scientific-literature-review/references/citation-verification.md",
+      "source_sha256": "ac632d4c3b2a9e9f1d7d01e496f0613b91f3713587682f18c68c4ba7935f31a2",
+      "published_sha256": "ac632d4c3b2a9e9f1d7d01e496f0613b91f3713587682f18c68c4ba7935f31a2",
+      "bytes": 1449,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/scientific-literature-review/references/database-search.md",
+      "source_sha256": "6a673674596336ccba63fb8f09cd9ea8334231ba71dd5a5a759ddad768753c7d",
+      "published_sha256": "6a673674596336ccba63fb8f09cd9ea8334231ba71dd5a5a759ddad768753c7d",
+      "bytes": 2025,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/modules/scientific-literature-review/references/evidence-appraisal.md",
+      "source_sha256": "7fd38e60eeeea35b569798528f7139ea0461fa91bf95b1e09e290f8f24fabc40",
+      "published_sha256": "7fd38e60eeeea35b569798528f7139ea0461fa91bf95b1e09e290f8f24fabc40",
+      "bytes": 1875,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/references/appraisal-and-synthesis.md",
+      "source_sha256": "ecebab1db8dbbf3b546e0e958fabb43bcd66cd65c2dbd28b7365df8855542956",
+      "published_sha256": "ecebab1db8dbbf3b546e0e958fabb43bcd66cd65c2dbd28b7365df8855542956",
+      "bytes": 7375,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/references/literature-watch.md",
+      "source_sha256": "fc1721ee757f7420f6e05dfb17c146dac8afd64576f1c2627e67018f7bde35fd",
+      "published_sha256": "fc1721ee757f7420f6e05dfb17c146dac8afd64576f1c2627e67018f7bde35fd",
+      "bytes": 11195,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/references/publication-workflow.md",
+      "source_sha256": "503acd47ab425dde3519a45498ad887712aac025c2d9fd253bfcd7e03875c66b",
+      "published_sha256": "503acd47ab425dde3519a45498ad887712aac025c2d9fd253bfcd7e03875c66b",
+      "bytes": 8344,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/references/search-strategy.md",
+      "source_sha256": "b12f7f4ce48d2e750778fd05153f037772ce4bf5d56339ba1d342ead05575226",
+      "published_sha256": "b12f7f4ce48d2e750778fd05153f037772ce4bf5d56339ba1d342ead05575226",
+      "bytes": 9871,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/references/source-map.md",
+      "source_sha256": "18cb2b4f93e46575bc783d7fa3801424642a84096aa14d4ae5287c21e2c7010d",
+      "published_sha256": "18cb2b4f93e46575bc783d7fa3801424642a84096aa14d4ae5287c21e2c7010d",
+      "bytes": 13011,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/references/tool-routing.md",
+      "source_sha256": "44dbf9bc868202b5e21efded3fb1b63d501edd705c0231e6d1ebd87cf9653098",
+      "published_sha256": "44dbf9bc868202b5e21efded3fb1b63d501edd705c0231e6d1ebd87cf9653098",
+      "bytes": 4915,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/references/turkey-applicability.md",
+      "source_sha256": "8830feec3fbcefcb548d4b655f95ddea66b1e6214d87459ef00022d664aced35",
+      "published_sha256": "8830feec3fbcefcb548d4b655f95ddea66b1e6214d87459ef00022d664aced35",
+      "bytes": 4103,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "medical-evidence-research/SKILL.md",
+      "source_sha256": "51a91b0fc6429c1838d30e591761425ce24fc47f0857cfcedb46011a85f18090",
+      "published_sha256": "a27dc9c3069ff71e2cfced71549603c0320c25087d92b859292b5de46d74c50f",
+      "bytes": 15748,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "office-docs-qa/modules/docx-workflow/MODULE.md",
+      "source_sha256": "636fcbbf6d69d8d18c5f5f87667a59d3548c8662efb0baabf6060f7dcbbf0d49",
+      "published_sha256": "636fcbbf6d69d8d18c5f5f87667a59d3548c8662efb0baabf6060f7dcbbf0d49",
+      "bytes": 3026,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "office-docs-qa/modules/file-reading-workflow/MODULE.md",
+      "source_sha256": "7946f4800d9ae0cc2bfea02567f2befe19adbe68f07c77e7ce817806e1d859e9",
+      "published_sha256": "7946f4800d9ae0cc2bfea02567f2befe19adbe68f07c77e7ce817806e1d859e9",
+      "bytes": 3565,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "office-docs-qa/modules/knowledge-base/MODULE.md",
+      "source_sha256": "8f83ff845c1e5234397def13d008378bbd78d76cab90906b53fac9dff174987b",
+      "published_sha256": "8f83ff845c1e5234397def13d008378bbd78d76cab90906b53fac9dff174987b",
+      "bytes": 2101,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "office-docs-qa/modules/pdf-workflow/MODULE.md",
+      "source_sha256": "5e7529fa1b724561f1d94be54674c3c962e1cac4b9b4e8eae0ece39face55735",
+      "published_sha256": "5e7529fa1b724561f1d94be54674c3c962e1cac4b9b4e8eae0ece39face55735",
+      "bytes": 2545,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "office-docs-qa/modules/workflow-visualizer/MODULE.md",
+      "source_sha256": "5c4e6844b7a6f36b462f4b044cceb5518826e3fcef306a21f88db82acf8042bb",
+      "published_sha256": "5c4e6844b7a6f36b462f4b044cceb5518826e3fcef306a21f88db82acf8042bb",
+      "bytes": 3392,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "office-docs-qa/modules/workflow-visualizer/references/interactive-html-diagrams.md",
+      "source_sha256": "e2bb33e77ef9bd854c71113caf66bdc4aeb4c817534c70be1d94c06aea87eadb",
+      "published_sha256": "e2bb33e77ef9bd854c71113caf66bdc4aeb4c817534c70be1d94c06aea87eadb",
+      "bytes": 1318,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "office-docs-qa/modules/xlsx-workflow/MODULE.md",
+      "source_sha256": "fe5f94c96e9d9eac5de52d5457fbadce7bce4fd108ec6518093d99ac744c1800",
+      "published_sha256": "fe5f94c96e9d9eac5de52d5457fbadce7bce4fd108ec6518093d99ac744c1800",
+      "bytes": 3065,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "office-docs-qa/SKILL.md",
+      "source_sha256": "a2d5ea31da88abd36ef2991267d22713dc26799ec2e42ed392e8b6d51e204a32",
+      "published_sha256": "83eb3462ad7e409d35b6a0aa14c263eebfdd22d8bc19062539166a10ff090ef7",
+      "bytes": 3991,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "parallel-web/LICENSE",
+      "source_sha256": "576e519ac8e76e04f862b12868ad88a5aafc2611cd10c1334694cf7f0ada69c2",
+      "published_sha256": "576e519ac8e76e04f862b12868ad88a5aafc2611cd10c1334694cf7f0ada69c2",
+      "bytes": 1098,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/choose-your-parallel-api/MODULE.md",
+      "source_sha256": "3467301ca32b75272303e828859db215cfd4fdc63c09f14d57abcca00e9bb23c",
+      "published_sha256": "3467301ca32b75272303e828859db215cfd4fdc63c09f14d57abcca00e9bb23c",
+      "bytes": 19080,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/migrate-to-parallel/agents/openai.yaml",
+      "source_sha256": "77481074314925ebf277b9d75c4c1be61f5f0c58bacf61a1e980be988dfea7b4",
+      "published_sha256": "77481074314925ebf277b9d75c4c1be61f5f0c58bacf61a1e980be988dfea7b4",
+      "bytes": 296,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/migrate-to-parallel/MODULE.md",
+      "source_sha256": "99a3dc324219021cc46b0dc1917a0c02665812bab83ad187d3119e57ce169f60",
+      "published_sha256": "99a3dc324219021cc46b0dc1917a0c02665812bab83ad187d3119e57ce169f60",
+      "bytes": 19245,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/migrate-to-parallel/references/exa.md",
+      "source_sha256": "2141e5f33f125fcb700ab6a50e36752e2448e359d2ce96e11e59524defe64ff1",
+      "published_sha256": "2141e5f33f125fcb700ab6a50e36752e2448e359d2ce96e11e59524defe64ff1",
+      "bytes": 10165,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/migrate-to-parallel/references/firecrawl.md",
+      "source_sha256": "7d3a12c47a53ef3c87a3691f1ad3ef30f9a67eaa353aa2b57d36a15a25bd6409",
+      "published_sha256": "7d3a12c47a53ef3c87a3691f1ad3ef30f9a67eaa353aa2b57d36a15a25bd6409",
+      "bytes": 30024,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/migrate-to-parallel/references/integration-patterns.md",
+      "source_sha256": "ff33d87d7ed70b124125474b6341fd1bd6b49a74ea307fbd48443d870ccf45b3",
+      "published_sha256": "ff33d87d7ed70b124125474b6341fd1bd6b49a74ea307fbd48443d870ccf45b3",
+      "bytes": 5415,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/migrate-to-parallel/references/parallel-products.md",
+      "source_sha256": "4f0b5172c4efb465ce7e7bef591754f065b0e9227d4d2fba454e6c032a8bdd40",
+      "published_sha256": "4f0b5172c4efb465ce7e7bef591754f065b0e9227d4d2fba454e6c032a8bdd40",
+      "bytes": 9226,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/migrate-to-parallel/references/parallel-search.md",
+      "source_sha256": "edba2cc2eecd00d56a05e9d39ef3ba1bfd189e6e5cccfc92b017ee9bec617c54",
+      "published_sha256": "edba2cc2eecd00d56a05e9d39ef3ba1bfd189e6e5cccfc92b017ee9bec617c54",
+      "bytes": 8584,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/migrate-to-parallel/references/perplexity.md",
+      "source_sha256": "ada528bcfab162b825783d1499c9b2d10ae4f8bb2d7392c40116c73035f0c1b0",
+      "published_sha256": "ada528bcfab162b825783d1499c9b2d10ae4f8bb2d7392c40116c73035f0c1b0",
+      "bytes": 23613,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/migrate-to-parallel/references/tavily.md",
+      "source_sha256": "5345b1aa0ad8703237f1fbfd08f888070f4c704148a14e4eefd8cf065cfc1a24",
+      "published_sha256": "5345b1aa0ad8703237f1fbfd08f888070f4c704148a14e4eefd8cf065cfc1a24",
+      "bytes": 9875,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/migrate-to-parallel/scripts/scan_provider_usage.py",
+      "source_sha256": "233cadd905c646b55a1ce157d6129303da64826b60d2c2009ddfb3cd07bcd05b",
+      "published_sha256": "233cadd905c646b55a1ce157d6129303da64826b60d2c2009ddfb3cd07bcd05b",
+      "bytes": 23903,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/parallel-cli-setup/MODULE.md",
+      "source_sha256": "d2f9dbe2e5d1839e8d7f1c59d0645e90bf0ffdd914580338e8f59966eae3560e",
+      "published_sha256": "d2f9dbe2e5d1839e8d7f1c59d0645e90bf0ffdd914580338e8f59966eae3560e",
+      "bytes": 4130,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/parallel-data-enrichment/MODULE.md",
+      "source_sha256": "90e1fcce8492d8ea93957d4e9abcc57017b2878b40b5d9f6b9148edae7e73ea3",
+      "published_sha256": "90e1fcce8492d8ea93957d4e9abcc57017b2878b40b5d9f6b9148edae7e73ea3",
+      "bytes": 5161,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/parallel-deep-research/MODULE.md",
+      "source_sha256": "53d747415ee685b1ff6a7fa1bc83f9c627200b085d0dbffb12dc843c9e350d3a",
+      "published_sha256": "53d747415ee685b1ff6a7fa1bc83f9c627200b085d0dbffb12dc843c9e350d3a",
+      "bytes": 6415,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/parallel-findall/MODULE.md",
+      "source_sha256": "6d03292c5490ec573bc20a60fc7f73c6bc4c4e2869c5ba2b9ab5a3ff28ea6576",
+      "published_sha256": "6d03292c5490ec573bc20a60fc7f73c6bc4c4e2869c5ba2b9ab5a3ff28ea6576",
+      "bytes": 8944,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/parallel-mcp-setup/MODULE.md",
+      "source_sha256": "a426ddd0e80b8e1a34d3d20db719f7a595526b21f92ca18799c9f61580fa9d2c",
+      "published_sha256": "a426ddd0e80b8e1a34d3d20db719f7a595526b21f92ca18799c9f61580fa9d2c",
+      "bytes": 6411,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/parallel-mcp-setup/references/gateway-controls.md",
+      "source_sha256": "4cfe5be79cf0914f6dc73c984f82a0d717679e9c66907a62c3f958aec16467ce",
+      "published_sha256": "4cfe5be79cf0914f6dc73c984f82a0d717679e9c66907a62c3f958aec16467ce",
+      "bytes": 3920,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/parallel-memory/MODULE.md",
+      "source_sha256": "8d9470954ee719cac81f1dba5f12f0a1987ff1bf8a12c4e543460ef963d6e668",
+      "published_sha256": "8d9470954ee719cac81f1dba5f12f0a1987ff1bf8a12c4e543460ef963d6e668",
+      "bytes": 3506,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/parallel-monitor/MODULE.md",
+      "source_sha256": "d575f8aa3df11bbd9220c6cfccf0d3d188782a4ebb41a393705d1740044e51ee",
+      "published_sha256": "d575f8aa3df11bbd9220c6cfccf0d3d188782a4ebb41a393705d1740044e51ee",
+      "bytes": 4622,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/parallel-search-setup/MODULE.md",
+      "source_sha256": "654abc95a1beb6610c248fc17c7607d70aa7ef1a4aa7dfdd617e454acfaa621e",
+      "published_sha256": "654abc95a1beb6610c248fc17c7607d70aa7ef1a4aa7dfdd617e454acfaa621e",
+      "bytes": 7852,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/parallel-web-extract/MODULE.md",
+      "source_sha256": "c0dc495370dac4565db0cec0fa4d29eb529338f448591b32d0961a0cfaa70c45",
+      "published_sha256": "c0dc495370dac4565db0cec0fa4d29eb529338f448591b32d0961a0cfaa70c45",
+      "bytes": 2924,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/parallel-web-search/MODULE.md",
+      "source_sha256": "afa13d4fc301cda7a350d7a2d7ea8566e1ac3f764197e3aa91f7798444614d27",
+      "published_sha256": "afa13d4fc301cda7a350d7a2d7ea8566e1ac3f764197e3aa91f7798444614d27",
+      "bytes": 4186,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/result/MODULE.md",
+      "source_sha256": "8cbc5a6d40de9b76640a47f0823c6311d5222f0389ecdc9a2446b9e4a7a17721",
+      "published_sha256": "8cbc5a6d40de9b76640a47f0823c6311d5222f0389ecdc9a2446b9e4a7a17721",
+      "bytes": 432,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/modules/status/MODULE.md",
+      "source_sha256": "663ef0502f02048551de0979141e14f2a594226ca5833d67533f021b1d9c8b3a",
+      "published_sha256": "663ef0502f02048551de0979141e14f2a594226ca5833d67533f021b1d9c8b3a",
+      "bytes": 387,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "parallel-web/SKILL.md",
+      "source_sha256": "60a7e0c47a3d8db71e71aa5d63f2ea41d01847611249b766783e34fda7f9ec09",
+      "published_sha256": "8e305c5980681f66fe4c7d3bbec863b20d73efaa04c82a23e1cfb206df6328c4",
+      "bytes": 4534,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "primary-source-research/agents/openai.yaml",
+      "source_sha256": "73840328dfa6b689d81ee645d8aaf8570a0cc44d64a32b119ea6091d2828d412",
+      "published_sha256": "73840328dfa6b689d81ee645d8aaf8570a0cc44d64a32b119ea6091d2828d412",
+      "bytes": 97,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "primary-source-research/LICENSE",
+      "source_sha256": "4981c5f6a90eb3a969dacabb9350f5a75695ff3910b39b6534952908dfdc5ff7",
+      "published_sha256": "4981c5f6a90eb3a969dacabb9350f5a75695ff3910b39b6534952908dfdc5ff7",
+      "bytes": 1089,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "primary-source-research/SKILL.md",
+      "source_sha256": "1fd739c08d2a682964fc2fdfb7d5839a88ef3b8f2fa70a067395522c327d79dd",
+      "published_sha256": "c4ae562a8b5ce24db0a5d6b8c26748584bda45ad157e24602d4b1767bb9762bd",
+      "bytes": 2750,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "purchase-advisor/modules/health-product-evidence-check/evals/trigger-cases.json",
+      "source_sha256": "0586d1942d1901692d0eb414dbb3aca39d8603dac9622659b2b4d63bfc886c5c",
+      "published_sha256": "0586d1942d1901692d0eb414dbb3aca39d8603dac9622659b2b4d63bfc886c5c",
+      "bytes": 1415,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "purchase-advisor/modules/health-product-evidence-check/MODULE.md",
+      "source_sha256": "593208c809598a445faa92f6927f4c11cd6f4fda9844a058b8863f4932a6818b",
+      "published_sha256": "593208c809598a445faa92f6927f4c11cd6f4fda9844a058b8863f4932a6818b",
+      "bytes": 5902,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "purchase-advisor/modules/health-product-evidence-check/references/product-evidence-framework.md",
+      "source_sha256": "e1a4d1a14d3449f95140236d020dc1f640484e6ba14518b219b8435d074af369",
+      "published_sha256": "e1a4d1a14d3449f95140236d020dc1f640484e6ba14518b219b8435d074af369",
+      "bytes": 3291,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "purchase-advisor/modules/market-pricing-analysis/MODULE.md",
+      "source_sha256": "ef45e1a2dcd9bf4366dd9e4c14f6eeb4026047166434fba1662a9b703f98d6af",
+      "published_sha256": "ef45e1a2dcd9bf4366dd9e4c14f6eeb4026047166434fba1662a9b703f98d6af",
+      "bytes": 3215,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "purchase-advisor/modules/market-pricing-analysis/references/pricing-method.md",
+      "source_sha256": "76ca846e34dded3a24335f9b01eae04dfa910ccc679301d958e6af87b9bea58c",
+      "published_sha256": "76ca846e34dded3a24335f9b01eae04dfa910ccc679301d958e6af87b9bea58c",
+      "bytes": 1065,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "purchase-advisor/modules/market-pricing-analysis/references/quality-evidence.md",
+      "source_sha256": "82f95f3de6957e1cf95524a2e879bb6739334969d9fd2fc6be74a412b324e810",
+      "published_sha256": "82f95f3de6957e1cf95524a2e879bb6739334969d9fd2fc6be74a412b324e810",
+      "bytes": 615,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "purchase-advisor/modules/market-pricing-analysis/references/web-research.md",
+      "source_sha256": "161ca8497a78dfc083d8804d52cbf203e62deafb1e45b8d7626fa8f46edbc77c",
+      "published_sha256": "161ca8497a78dfc083d8804d52cbf203e62deafb1e45b8d7626fa8f46edbc77c",
+      "bytes": 590,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "purchase-advisor/modules/market-pricing-analysis/scripts/normalize_prices.py",
+      "source_sha256": "03383cfae6a0f2d03f35830b733b3366520c2a5a487ce03a1537f87290f37359",
+      "published_sha256": "03383cfae6a0f2d03f35830b733b3366520c2a5a487ce03a1537f87290f37359",
+      "bytes": 3543,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "purchase-advisor/SKILL.md",
+      "source_sha256": "d9e87d1bd2a09b133b8f864f464435029cb52b852e5afc513c532cbf0adc6d2e",
+      "published_sha256": "e031daeb14ccf63b832b8991169378293494a50380ecd6e56dad75da356c34ef",
+      "bytes": 3713,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "research-analyst/modules/competitive-brief/MODULE.md",
+      "source_sha256": "5cc69ea3c98872b68d6669aeaebfb57912125a85d328c0bc228fb68647755636",
+      "published_sha256": "5cc69ea3c98872b68d6669aeaebfb57912125a85d328c0bc228fb68647755636",
+      "bytes": 1313,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/consumer-resolution/MODULE.md",
+      "source_sha256": "d2f4fe399821445d064f617dbde2fe3a3b0017a4f7d670d671d3c4671a29539f",
+      "published_sha256": "d2f4fe399821445d064f617dbde2fe3a3b0017a4f7d670d671d3c4671a29539f",
+      "bytes": 3799,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/decision-council/MODULE.md",
+      "source_sha256": "f98dbc91df05f306e18f062073f9748bbdcd21e8daae3cdadbc56e94f4c67a71",
+      "published_sha256": "f98dbc91df05f306e18f062073f9748bbdcd21e8daae3cdadbc56e94f4c67a71",
+      "bytes": 4135,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/deep-reading-analyst/MODULE.md",
+      "source_sha256": "89c5351f8d5c431fdd49a9823e45157f95b5410db9ae3f8898d28304a9ea9dbb",
+      "published_sha256": "89c5351f8d5c431fdd49a9823e45157f95b5410db9ae3f8898d28304a9ea9dbb",
+      "bytes": 14945,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/deep-reading-analyst/references/5w2h_analysis.md",
+      "source_sha256": "cf47e04d09ceb2dbe52c10a51f10c891dab0bdc4245c9ab37c04354e9efdc91e",
+      "published_sha256": "cf47e04d09ceb2dbe52c10a51f10c891dab0bdc4245c9ab37c04354e9efdc91e",
+      "bytes": 9416,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/deep-reading-analyst/references/advanced-usage.md",
+      "source_sha256": "38ec248c89ba8056908df75c458973e4d50b1d09b33032deefa315acc3b3ae65",
+      "published_sha256": "38ec248c89ba8056908df75c458973e4d50b1d09b33032deefa315acc3b3ae65",
+      "bytes": 1096,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/deep-reading-analyst/references/comparison_matrix.md",
+      "source_sha256": "226c2b17edde851dd93dd6f9f6a25f339d7ddf8b766d41c4436e122d3166ac19",
+      "published_sha256": "226c2b17edde851dd93dd6f9f6a25f339d7ddf8b766d41c4436e122d3166ac19",
+      "bytes": 9216,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/deep-reading-analyst/references/critical_thinking.md",
+      "source_sha256": "f81980cc9231514fda742ade77d1aede3dc2a101af16730611ab370d26df48d9",
+      "published_sha256": "f81980cc9231514fda742ade77d1aede3dc2a101af16730611ab370d26df48d9",
+      "bytes": 3411,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/deep-reading-analyst/references/first_principles.md",
+      "source_sha256": "d2f650ab4a28a9fb902e47fba0ff326880d5c970e473159b45cb5531bc999ec2",
+      "published_sha256": "d2f650ab4a28a9fb902e47fba0ff326880d5c970e473159b45cb5531bc999ec2",
+      "bytes": 4614,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/deep-reading-analyst/references/inversion_thinking.md",
+      "source_sha256": "692581f39b276a6377eb2692632649787e32eb1ac1bec52a8b36537017fe19e5",
+      "published_sha256": "692581f39b276a6377eb2692632649787e32eb1ac1bec52a8b36537017fe19e5",
+      "bytes": 9072,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/deep-reading-analyst/references/mental_models.md",
+      "source_sha256": "142a08b988b77420588de4e5989ad0e542dc3a31b09c4648a6edf8f832574920",
+      "published_sha256": "142a08b988b77420588de4e5989ad0e542dc3a31b09c4648a6edf8f832574920",
+      "bytes": 8968,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/deep-reading-analyst/references/output_templates.md",
+      "source_sha256": "0ec34fcf107e751137254f8b8bca10053e2566f5ccd04fc1a1318ef41383fa4e",
+      "published_sha256": "0ec34fcf107e751137254f8b8bca10053e2566f5ccd04fc1a1318ef41383fa4e",
+      "bytes": 8046,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/deep-reading-analyst/references/scqa_framework.md",
+      "source_sha256": "dbfa97fd1ea33b10f04021353327c2d34b8a11a29d48ad02da9cc4608eed1487",
+      "published_sha256": "dbfa97fd1ea33b10f04021353327c2d34b8a11a29d48ad02da9cc4608eed1487",
+      "bytes": 12232,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/deep-reading-analyst/references/six_hats.md",
+      "source_sha256": "678a75344ac5e2c08f1a80c8cbaf7f11be5be9b0d7b5046f8b5fc124ed2c1c60",
+      "published_sha256": "678a75344ac5e2c08f1a80c8cbaf7f11be5be9b0d7b5046f8b5fc124ed2c1c60",
+      "bytes": 8240,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/deep-reading-analyst/references/systems_thinking.md",
+      "source_sha256": "d33def5eac46874a158f62b0184b423bc88540be6897307a3f19694b603373e6",
+      "published_sha256": "d33def5eac46874a158f62b0184b423bc88540be6897307a3f19694b603373e6",
+      "bytes": 5900,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/deep-research/evals/trigger-cases.json",
+      "source_sha256": "1ce66da75c8f4a61a39811de8b3fbebe73e23db60d51985e05ddd81ac2692bc0",
+      "published_sha256": "1ce66da75c8f4a61a39811de8b3fbebe73e23db60d51985e05ddd81ac2692bc0",
+      "bytes": 2135,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/deep-research/MODULE.md",
+      "source_sha256": "a5ac798663940d3e084ac5337478cb4a9a813863a565def6b11e9085689a7cb2",
+      "published_sha256": "a5ac798663940d3e084ac5337478cb4a9a813863a565def6b11e9085689a7cb2",
+      "bytes": 6501,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/deep-research/references/compilation-method.md",
+      "source_sha256": "21837e3d34cbb59c32f94c846dcb70b95b1a60e1adbb9843a6dc27257c153f7f",
+      "published_sha256": "21837e3d34cbb59c32f94c846dcb70b95b1a60e1adbb9843a6dc27257c153f7f",
+      "bytes": 44851,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/deep-research/references/domain-routing.md",
+      "source_sha256": "f68c5027e54598ae4b1277f1004e8ad56e83b48f4757435bc4df6359d3c5ec80",
+      "published_sha256": "f68c5027e54598ae4b1277f1004e8ad56e83b48f4757435bc4df6359d3c5ec80",
+      "bytes": 3708,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/deep-research-compilation/MODULE.md",
+      "source_sha256": "520a0b2ba8a737fb9e354d88582da303f637c6b5304682c40dbbce572be5653b",
+      "published_sha256": "d493b441aa4d56c78b5e92b31d332eb479d2199df3658e79b7336ddb5d517026",
+      "bytes": 43844,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "research-analyst/modules/evidence-integrity-guard/evals/trigger-cases.json",
+      "source_sha256": "bffb678b456312d8712ead3cce2e52ef0221becd5f72a1096e15a8d5a8a461e5",
+      "published_sha256": "bffb678b456312d8712ead3cce2e52ef0221becd5f72a1096e15a8d5a8a461e5",
+      "bytes": 1259,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/evidence-integrity-guard/MODULE.md",
+      "source_sha256": "a1f0d44f8076b148e1832be0f5fde2835e401f5045c361ca6902a525b97bf0bb",
+      "published_sha256": "a1f0d44f8076b148e1832be0f5fde2835e401f5045c361ca6902a525b97bf0bb",
+      "bytes": 6278,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/evidence-integrity-guard/references/citation-audit.md",
+      "source_sha256": "363fa65346297b8b774970fba93a562e7974f017a5d34a33ecb2be0b3c04d456",
+      "published_sha256": "363fa65346297b8b774970fba93a562e7974f017a5d34a33ecb2be0b3c04d456",
+      "bytes": 1749,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/evidence-integrity-guard/references/evidence-protocol.md",
+      "source_sha256": "420c1a121d0181aac6a32ee895b77f956045d14a2cf372ed0bfe576c8bdc1f9f",
+      "published_sha256": "420c1a121d0181aac6a32ee895b77f956045d14a2cf372ed0bfe576c8bdc1f9f",
+      "bytes": 3507,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/evidence-integrity-guard/references/source-and-incentive-checks.md",
+      "source_sha256": "049f09e798cbf35219a51b7cae6bf24740bb4ba8c36ac0b080816045b113256e",
+      "published_sha256": "049f09e798cbf35219a51b7cae6bf24740bb4ba8c36ac0b080816045b113256e",
+      "bytes": 3378,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/evidence-integrity-guard/scripts/audit_research_report.py",
+      "source_sha256": "e35d5a139ffcdfd8423f295aa5682a6a6c2636435df334861a088aaa888fde90",
+      "published_sha256": "e35d5a139ffcdfd8423f295aa5682a6a6c2636435df334861a088aaa888fde90",
+      "bytes": 5173,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/fact-check-workflow/LICENSE",
+      "source_sha256": "c4c2cb62e1646dc8eb2943dd8ffc4e11132e49676117b61e8370398f18205d72",
+      "published_sha256": "c4c2cb62e1646dc8eb2943dd8ffc4e11132e49676117b61e8370398f18205d72",
+      "bytes": 1089,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/fact-check-workflow/MODULE.md",
+      "source_sha256": "333d79732db2e1b1830eee125bbcd8f3992baae3f88f7754dfe16f404f38a69e",
+      "published_sha256": "333d79732db2e1b1830eee125bbcd8f3992baae3f88f7754dfe16f404f38a69e",
+      "bytes": 11834,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/firecrawl/MODULE.md",
+      "source_sha256": "6bd7b1d5b01778c3a53f5d570e815c271056b1225678109fa2107755cba21849",
+      "published_sha256": "688cdfd4b199a19e396c729fdbbb24b1d4f77479806020108c19de58110950c1",
+      "bytes": 2101,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "research-analyst/modules/firecrawl-search/MODULE.md",
+      "source_sha256": "9fb2b615b46dd0ff9baad487b719135ee67d985a3ef793cbccc705ba9eebb595",
+      "published_sha256": "afe80980efbe4a18cf95a00b70dda45cf6494aac6e134eea7392b41c07e5b283",
+      "bytes": 1438,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "research-analyst/modules/legal-research/MODULE.md",
+      "source_sha256": "8bc9ea333c37cb3e72fddf4619c118c1edce59f03e06f0f72d0c76a96654647c",
+      "published_sha256": "8bc9ea333c37cb3e72fddf4619c118c1edce59f03e06f0f72d0c76a96654647c",
+      "bytes": 4051,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/quick-research/MODULE.md",
+      "source_sha256": "e523fa31e7b7f986e8d963f2a704e365cd7ab2586fd47dc9f30f1ce2bde699f9",
+      "published_sha256": "e523fa31e7b7f986e8d963f2a704e365cd7ab2586fd47dc9f30f1ce2bde699f9",
+      "bytes": 3669,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/research-synthesis/MODULE.md",
+      "source_sha256": "8371b5426fe968d32090e4686278be4aaca61bc606a6075324d5ceb4d4833ecf",
+      "published_sha256": "8371b5426fe968d32090e4686278be4aaca61bc606a6075324d5ceb4d4833ecf",
+      "bytes": 1234,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/source-driven-development/MODULE.md",
+      "source_sha256": "77915c171e99e32f08c88af631aef0ffe938e5eb9e0c2d377dddff14bd4596c7",
+      "published_sha256": "b7ff19c4a5d6d3dbf00fb3e3b66eb54e2d610bf472ecfa88f5464e733a1bf907",
+      "bytes": 8507,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "research-analyst/modules/source-verification/LICENSE",
+      "source_sha256": "c4c2cb62e1646dc8eb2943dd8ffc4e11132e49676117b61e8370398f18205d72",
+      "published_sha256": "c4c2cb62e1646dc8eb2943dd8ffc4e11132e49676117b61e8370398f18205d72",
+      "bytes": 1089,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/source-verification/MODULE.md",
+      "source_sha256": "2efb501c93c019c1f0884ca24d3a7b1e92a35c1901b7b677e65c770baedd7347",
+      "published_sha256": "2efb501c93c019c1f0884ca24d3a7b1e92a35c1901b7b677e65c770baedd7347",
+      "bytes": 5661,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/source-verification/references/documents.md",
+      "source_sha256": "658547ebb8673f82c70cd223979edbfa84d79f886c70ac5923e6803b56b2a711",
+      "published_sha256": "658547ebb8673f82c70cd223979edbfa84d79f886c70ac5923e6803b56b2a711",
+      "bytes": 792,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/source-verification/references/images.md",
+      "source_sha256": "57583026890abdb3e3d635ef8db78defd0b54e9a4ef8f8ed1db8d39477116725",
+      "published_sha256": "57583026890abdb3e3d635ef8db78defd0b54e9a4ef8f8ed1db8d39477116725",
+      "bytes": 973,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/source-verification/references/interviews.md",
+      "source_sha256": "38290f55c19e561b96cf4371bed56337d0e04901ab2c9ac10ddcb85e80dcbdf3",
+      "published_sha256": "38290f55c19e561b96cf4371bed56337d0e04901ab2c9ac10ddcb85e80dcbdf3",
+      "bytes": 1677,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/source-verification/references/resources.md",
+      "source_sha256": "791812c225aae94d18b5376a167f8d6a700a7c61fcdb98ef9eb602e7bd0bc145",
+      "published_sha256": "791812c225aae94d18b5376a167f8d6a700a7c61fcdb98ef9eb602e7bd0bc145",
+      "bytes": 2644,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/source-verification/references/social-accounts.md",
+      "source_sha256": "67f84b058706628094bc9432c4fb26af393e6039fbfba5a7578109d224ddba3f",
+      "published_sha256": "67f84b058706628094bc9432c4fb26af393e6039fbfba5a7578109d224ddba3f",
+      "bytes": 1142,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/source-verification/references/source-credibility.md",
+      "source_sha256": "429379316b3b0280ab6367dbc04e7f8e7444fec99f94c9be1177bb4f1a38c015",
+      "published_sha256": "429379316b3b0280ab6367dbc04e7f8e7444fec99f94c9be1177bb4f1a38c015",
+      "bytes": 1192,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/source-verification/references/synthetic-media.md",
+      "source_sha256": "54d4a515ef403e6ef3d53e6c09fb2f795693c31d04d0a03b9196f72254230f8a",
+      "published_sha256": "54d4a515ef403e6ef3d53e6c09fb2f795693c31d04d0a03b9196f72254230f8a",
+      "bytes": 6775,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/source-verification/references/verification-trail-and-archiving.md",
+      "source_sha256": "efe58df01926106982a131b0bee430c27ccd06e71461cf61401a669fb02e38af",
+      "published_sha256": "efe58df01926106982a131b0bee430c27ccd06e71461cf61401a669fb02e38af",
+      "bytes": 4703,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/source-verification/references/video.md",
+      "source_sha256": "2b2c5ddbb76350ea2843b0ce29d6ebbfb7211041f163da6c6fdbc0fc5dde9da8",
+      "published_sha256": "2b2c5ddbb76350ea2843b0ce29d6ebbfb7211041f163da6c6fdbc0fc5dde9da8",
+      "bytes": 830,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/trend-research/agents/openai.yaml",
+      "source_sha256": "d0508ff4689a71f8b834e981fdbef89fcfb0f3621ecbf020ceb2510f7eb51b6a",
+      "published_sha256": "d0508ff4689a71f8b834e981fdbef89fcfb0f3621ecbf020ceb2510f7eb51b6a",
+      "bytes": 240,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/trend-research/MODULE.md",
+      "source_sha256": "64239d034843869d143da377c1b7ef317988cd8a6e2639607c522c26778a216e",
+      "published_sha256": "21b6427406feb8693945007c63f5017fc6587e44e735320b7b26b3c5fafc0074",
+      "bytes": 4845,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "research-analyst/modules/vendor-review/MODULE.md",
+      "source_sha256": "e7f33f3065f22ee43640d729bff869b3ad913c78a74dd7573fdeb71f59a63901",
+      "published_sha256": "e7f33f3065f22ee43640d729bff869b3ad913c78a74dd7573fdeb71f59a63901",
+      "bytes": 1165,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/video-understanding/MODULE.md",
+      "source_sha256": "6cddfe2761324c7b92ad32c89858963a4ca9e306d234ba6b287333280d39ad04",
+      "published_sha256": "6cddfe2761324c7b92ad32c89858963a4ca9e306d234ba6b287333280d39ad04",
+      "bytes": 4382,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/video-understanding/scripts/sample_video.py",
+      "source_sha256": "980ca6e135d82ebada5e6547cda1a69935aa79c9fe242c27b5d7585c97a30ec3",
+      "published_sha256": "980ca6e135d82ebada5e6547cda1a69935aa79c9fe242c27b5d7585c97a30ec3",
+      "bytes": 3476,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/web-archiving/LICENSE",
+      "source_sha256": "c4c2cb62e1646dc8eb2943dd8ffc4e11132e49676117b61e8370398f18205d72",
+      "published_sha256": "c4c2cb62e1646dc8eb2943dd8ffc4e11132e49676117b61e8370398f18205d72",
+      "bytes": 1089,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/web-archiving/MODULE.md",
+      "source_sha256": "6553808eaed6584b3bb8ec84c16bc223579dbaf65c4c788a8c40295c5165b5c6",
+      "published_sha256": "6553808eaed6584b3bb8ec84c16bc223579dbaf65c4c788a8c40295c5165b5c6",
+      "bytes": 26644,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research/codex-variant/CODEX-VARIANT.md",
+      "source_sha256": "451fca9d68e1c74b48b5ba60d3279bb068f3403e63a7b68c5dcec7dac7ae2c69",
+      "published_sha256": "db05a62e71c8599d6bda2c9b2fc88e24709575cbfa4847a8628c77f902691c5a",
+      "bytes": 5392,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research/codex-variant/LICENSE",
+      "source_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "published_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "bytes": 1087,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research/codex-variant/validate_json.py",
+      "source_sha256": "de4b01c438f698fc0e9346693a82fe8a2ae1f54ddf704f6e10dc97acc8f28ee4",
+      "published_sha256": "de4b01c438f698fc0e9346693a82fe8a2ae1f54ddf704f6e10dc97acc8f28ee4",
+      "bytes": 8472,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research/LICENSE",
+      "source_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "published_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "bytes": 1087,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research/MODULE.md",
+      "source_sha256": "dcade530966713b2c841c61ac7fcd140b1b788010d2abd98002db0d03ad37e96",
+      "published_sha256": "81276175b678967d3c03c103c27568fd1b42548687c1fc386ba0be3a67753bd7",
+      "bytes": 5505,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research/validate_json.py",
+      "source_sha256": "de4b01c438f698fc0e9346693a82fe8a2ae1f54ddf704f6e10dc97acc8f28ee4",
+      "published_sha256": "de4b01c438f698fc0e9346693a82fe8a2ae1f54ddf704f6e10dc97acc8f28ee4",
+      "bytes": 8472,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-add-fields/codex-variant/CODEX-VARIANT.md",
+      "source_sha256": "408eb2e12165e53f37a97a076268f897a27527dfa0990cbbfeba1fc024a66507",
+      "published_sha256": "3cf862d84bb84a11935567ecba473924a9da54ecb2d63692ae7487d46fb0e627",
+      "bytes": 1676,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-add-fields/codex-variant/LICENSE",
+      "source_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "published_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "bytes": 1087,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-add-fields/LICENSE",
+      "source_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "published_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "bytes": 1087,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-add-fields/MODULE.md",
+      "source_sha256": "7bc007ce4e43e6cdf84046889fa853b55f9f3f640ae08ed52b9df50467cc96ad",
+      "published_sha256": "d8ed15b8d283bb04e98a3d2b172ba517f91e973817aaa34358766bff08bc44db",
+      "bytes": 1804,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-add-items/codex-variant/CODEX-VARIANT.md",
+      "source_sha256": "ff743103132f0d686b1d1ce383bfe1983b82c6b24bf335a4c9c7dc264ac86a3a",
+      "published_sha256": "4a77e1240250212bcda7a5e148bb8a81ef1629c84e139145a715ce0fd0965d17",
+      "bytes": 1545,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-add-items/codex-variant/LICENSE",
+      "source_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "published_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "bytes": 1087,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-add-items/LICENSE",
+      "source_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "published_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "bytes": 1087,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-add-items/MODULE.md",
+      "source_sha256": "8292743091fbd461338120acd1f363388a44dd9a2749ea62650bbe2100b9f97a",
+      "published_sha256": "3a16018a7c118dd4b2ce4d9946f0128b2e0df9834cc292dbfe7f15ee79c2a3e8",
+      "bytes": 1673,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-deep/codex-variant/CODEX-VARIANT.md",
+      "source_sha256": "06166c9ec872ec44cc95c000f7e2610606ece752cc04b75387a5e61188a5383f",
+      "published_sha256": "edfae7d224d8f9e1a62286f03de9b62357ca83bcc06bd4ef14644b41a139cb26",
+      "bytes": 4234,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-deep/codex-variant/LICENSE",
+      "source_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "published_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "bytes": 1087,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-deep/LICENSE",
+      "source_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "published_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "bytes": 1087,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-deep/MODULE.md",
+      "source_sha256": "5613980d570ffdafd70ebb2168abf040607ac589d58a96d382177ddf530f4779",
+      "published_sha256": "f0e9b01ab122d84c7a82d0e32347fa27372034b8dba7a61ec4f8efb329d61938",
+      "bytes": 4364,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-report/codex-variant/CODEX-VARIANT.md",
+      "source_sha256": "3b3f90b4dfa42df7c9846d04baa6bd299a46902eaf91e5c657fb965f67493e0d",
+      "published_sha256": "ff34c53fbc834677331442e916ae6b3193100e75e5455f3e6f5bc75551818b10",
+      "bytes": 4691,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-report/codex-variant/LICENSE",
+      "source_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "published_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "bytes": 1087,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-report/LICENSE",
+      "source_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "published_sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f",
+      "bytes": 1087,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-report/MODULE.md",
+      "source_sha256": "b5703733fe316a2d0886d2a12d01134584c8e06c72a290759f3d5cbe99898e8e",
+      "published_sha256": "4af08c2c8135fcf52cf6bd41a165f46bf4d8021e6e64de4a25b0e07f247d4e0e",
+      "bytes": 4816,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "research-analyst/SKILL.md",
+      "source_sha256": "c1944b77e62f19e36e3a3e47d4e78681cdb74b203c0c9359a0919b55074f0626",
+      "published_sha256": "5b42f6de5e3a2782834e4578e1800de87c63d7e13568bfc3891c04f3edeba49a",
+      "bytes": 13401,
+      "legal_notice": false,
+      "modified": true
+    }
+  ],
+  "licenses": [
+    {
+      "skill": "academic-study-coach",
+      "declared": null,
+      "root_license_files": [],
+      "notice_files": [
+        {
+          "path": "academic-study-coach/modules/academic-writing/LICENSE",
+          "sha256": "c4c2cb62e1646dc8eb2943dd8ffc4e11132e49676117b61e8370398f18205d72"
+        }
+      ],
+      "modules_without_local_or_root_notice": [
+        "academic-presentations",
+        "notebooklm-prompt-architect",
+        "physio-clinical-english",
+        "physio-study-coach"
+      ],
+      "status": "root-license-not-specified"
+    },
+    {
+      "skill": "data-analyst",
+      "declared": null,
+      "root_license_files": [],
+      "notice_files": [],
+      "modules_without_local_or_root_notice": [
+        "data-analysis",
+        "data-context",
+        "data-dashboard",
+        "data-visualization-playbook",
+        "sql-analytics-workflow"
+      ],
+      "status": "root-license-not-specified"
+    },
+    {
+      "skill": "medical-evidence-research",
+      "declared": null,
+      "root_license_files": [],
+      "notice_files": [
+        {
+          "path": "medical-evidence-research/modules/content-access/LICENSE",
+          "sha256": "c4c2cb62e1646dc8eb2943dd8ffc4e11132e49676117b61e8370398f18205d72"
+        },
+        {
+          "path": "medical-evidence-research/modules/scientific-literature-review/LICENSE.txt",
+          "sha256": "5c793d8fe1c553d49c305f3c178ac360b6d32607bdf1bca06b10d3ba9881d78f"
+        }
+      ],
+      "modules_without_local_or_root_notice": [
+        "physio-evidence-search",
+        "physio-study-appraisal"
+      ],
+      "status": "root-license-not-specified"
+    },
+    {
+      "skill": "office-docs-qa",
+      "declared": null,
+      "root_license_files": [],
+      "notice_files": [],
+      "modules_without_local_or_root_notice": [
+        "docx-workflow",
+        "file-reading-workflow",
+        "knowledge-base",
+        "pdf-workflow",
+        "workflow-visualizer",
+        "xlsx-workflow"
+      ],
+      "status": "root-license-not-specified"
+    },
+    {
+      "skill": "parallel-web",
+      "declared": "MIT",
+      "root_license_files": [
+        "parallel-web/LICENSE"
+      ],
+      "notice_files": [
+        {
+          "path": "parallel-web/LICENSE",
+          "sha256": "576e519ac8e76e04f862b12868ad88a5aafc2611cd10c1334694cf7f0ada69c2"
+        }
+      ],
+      "modules_without_local_or_root_notice": [],
+      "status": "evidence-present-scope-review"
+    },
+    {
+      "skill": "primary-source-research",
+      "declared": null,
+      "root_license_files": [
+        "primary-source-research/LICENSE"
+      ],
+      "notice_files": [
+        {
+          "path": "primary-source-research/LICENSE",
+          "sha256": "4981c5f6a90eb3a969dacabb9350f5a75695ff3910b39b6534952908dfdc5ff7"
+        }
+      ],
+      "modules_without_local_or_root_notice": [],
+      "status": "evidence-present-scope-review"
+    },
+    {
+      "skill": "purchase-advisor",
+      "declared": null,
+      "root_license_files": [],
+      "notice_files": [],
+      "modules_without_local_or_root_notice": [
+        "health-product-evidence-check",
+        "market-pricing-analysis"
+      ],
+      "status": "root-license-not-specified"
+    },
+    {
+      "skill": "research-analyst",
+      "declared": null,
+      "root_license_files": [],
+      "notice_files": [
+        {
+          "path": "research-analyst/modules/fact-check-workflow/LICENSE",
+          "sha256": "c4c2cb62e1646dc8eb2943dd8ffc4e11132e49676117b61e8370398f18205d72"
+        },
+        {
+          "path": "research-analyst/modules/source-verification/LICENSE",
+          "sha256": "c4c2cb62e1646dc8eb2943dd8ffc4e11132e49676117b61e8370398f18205d72"
+        },
+        {
+          "path": "research-analyst/modules/web-archiving/LICENSE",
+          "sha256": "c4c2cb62e1646dc8eb2943dd8ffc4e11132e49676117b61e8370398f18205d72"
+        },
+        {
+          "path": "research-analyst/modules/weizhena-research/LICENSE",
+          "sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f"
+        },
+        {
+          "path": "research-analyst/modules/weizhena-research-add-fields/LICENSE",
+          "sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f"
+        },
+        {
+          "path": "research-analyst/modules/weizhena-research-add-items/LICENSE",
+          "sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f"
+        },
+        {
+          "path": "research-analyst/modules/weizhena-research-deep/LICENSE",
+          "sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f"
+        },
+        {
+          "path": "research-analyst/modules/weizhena-research-report/LICENSE",
+          "sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f"
+        },
+        {
+          "path": "research-analyst/modules/weizhena-research/codex-variant/LICENSE",
+          "sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f"
+        },
+        {
+          "path": "research-analyst/modules/weizhena-research-add-fields/codex-variant/LICENSE",
+          "sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f"
+        },
+        {
+          "path": "research-analyst/modules/weizhena-research-add-items/codex-variant/LICENSE",
+          "sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f"
+        },
+        {
+          "path": "research-analyst/modules/weizhena-research-deep/codex-variant/LICENSE",
+          "sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f"
+        },
+        {
+          "path": "research-analyst/modules/weizhena-research-report/codex-variant/LICENSE",
+          "sha256": "543261f34ca9b6af0a425bd4422be126f348bab7521847728e25360a049d9e9f"
+        }
+      ],
+      "modules_without_local_or_root_notice": [
+        "competitive-brief",
+        "consumer-resolution",
+        "decision-council",
+        "deep-reading-analyst",
+        "deep-research",
+        "deep-research-compilation",
+        "evidence-integrity-guard",
+        "firecrawl",
+        "firecrawl-search",
+        "legal-research",
+        "quick-research",
+        "research-synthesis",
+        "source-driven-development",
+        "trend-research",
+        "vendor-review",
+        "video-understanding"
+      ],
+      "status": "root-license-not-specified"
+    }
+  ],
+  "license_gaps": [
+    {
+      "skill": "academic-study-coach",
+      "reason": "root-license-not-specified",
+      "modules_without_notice": [
+        "academic-presentations",
+        "notebooklm-prompt-architect",
+        "physio-clinical-english",
+        "physio-study-coach"
+      ]
+    },
+    {
+      "skill": "data-analyst",
+      "reason": "root-license-not-specified",
+      "modules_without_notice": [
+        "data-analysis",
+        "data-context",
+        "data-dashboard",
+        "data-visualization-playbook",
+        "sql-analytics-workflow"
+      ]
+    },
+    {
+      "skill": "medical-evidence-research",
+      "reason": "root-license-not-specified",
+      "modules_without_notice": [
+        "physio-evidence-search",
+        "physio-study-appraisal"
+      ]
+    },
+    {
+      "skill": "office-docs-qa",
+      "reason": "root-license-not-specified",
+      "modules_without_notice": [
+        "docx-workflow",
+        "file-reading-workflow",
+        "knowledge-base",
+        "pdf-workflow",
+        "workflow-visualizer",
+        "xlsx-workflow"
+      ]
+    },
+    {
+      "skill": "purchase-advisor",
+      "reason": "root-license-not-specified",
+      "modules_without_notice": [
+        "health-product-evidence-check",
+        "market-pricing-analysis"
+      ]
+    },
+    {
+      "skill": "research-analyst",
+      "reason": "root-license-not-specified",
+      "modules_without_notice": [
+        "competitive-brief",
+        "consumer-resolution",
+        "decision-council",
+        "deep-reading-analyst",
+        "deep-research",
+        "deep-research-compilation",
+        "evidence-integrity-guard",
+        "firecrawl",
+        "firecrawl-search",
+        "legal-research",
+        "quick-research",
+        "research-synthesis",
+        "source-driven-development",
+        "trend-research",
+        "vendor-review",
+        "video-understanding"
+      ]
+    }
+  ],
+  "adaptations": [
+    {
+      "path": "academic-study-coach/modules/physio-study-coach/MODULE.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "academic-study-coach/SKILL.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "data-analyst/SKILL.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "medical-evidence-research/SKILL.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "office-docs-qa/SKILL.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "parallel-web/SKILL.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "primary-source-research/SKILL.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "purchase-advisor/SKILL.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "research-analyst/modules/deep-research-compilation/MODULE.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "research-analyst/modules/firecrawl/MODULE.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "research-analyst/modules/firecrawl-search/MODULE.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "research-analyst/modules/source-driven-development/MODULE.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "research-analyst/modules/trend-research/MODULE.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research/codex-variant/CODEX-VARIANT.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research/MODULE.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-add-fields/codex-variant/CODEX-VARIANT.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-add-fields/MODULE.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-add-items/codex-variant/CODEX-VARIANT.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-add-items/MODULE.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-deep/codex-variant/CODEX-VARIANT.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-deep/MODULE.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-report/codex-variant/CODEX-VARIANT.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "research-analyst/modules/weizhena-research-report/MODULE.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "research-analyst/SKILL.md",
+      "reason": "portable host adaptation / private machine context removal"
+    }
+  ]
+}

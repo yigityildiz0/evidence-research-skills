@@ -1,58 +1,85 @@
-<!-- CURRENT-SKILL-PUBLICATION -->
-![Evidence Research Skills](assets/collection-hero.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="1280" alt="Evidence &amp; Research Skills — clear questions, repeatable workflows, reviewable results">
+</picture>
 
-# Evidence Research Skills
+# Evidence & Research Skills
 
-Literature search, paper appraisal and evidence synthesis. These **11 workflows** help the assistant select tools, check evidence and produce reviewable results. They do not change model weights or guarantee better decisions.
+[English](README.md) · [Türkçe](README.tr.md)
 
-[![Download ChatGPT](https://img.shields.io/badge/ChatGPT-Download_ZIP-10a37f?style=for-the-badge)](https://github.com/yigityildiz0/evidence-research-skills/raw/refs/heads/main/downloads/ChatGPT.zip) [![Download Claude](https://img.shields.io/badge/Claude-Download_ZIP-d97757?style=for-the-badge)](https://github.com/yigityildiz0/evidence-research-skills/raw/refs/heads/main/downloads/Claude.zip)
+**Source-led research, evidence appraisal, data analysis and research synthesis.**
 
-**ChatGPT:** the button downloads a plugin with all listed skills and supporting files. Use the personal-plugin/skill import supported by your account. A single-skill ChatGPT button downloads a one-skill plugin. **Claude:** unpack the collection ZIP, then upload its individual skill ZIPs; the outer collection is not a single Claude skill. Local Codex/Claude Code files and cloud-account installation are separate.
+8 maintained entry points. Choose one for the job; do not load the entire library into context.
 
-Use natural English or Turkish requests. For medical workflows: “literatür: frozen shoulder exercises”, “literature: exercise dose”, “makale/paper: DOI”, “fizyo/physio: case”. A slash-prefixed word typed in chat does not register a host command. Explicit local skill invocation uses the canonical skill name; available tools, network access and credentials remain host-dependent.
+[Start here](docs/INSTALL.md) · [Browse the catalog](https://yigityildiz0.github.io/universal-ai-skill-library/) · [Downloads](DOWNLOADS.md) · [Maintenance model](MAINTAINING.md)
 
-## Included skills
+## Start with the work you want to do
 
-| Skill | What it solves / example request | ChatGPT | Claude |
-|---|---|---|---|
-| [`medical-evidence-research`](skills/common/medical-evidence-research/SKILL.md) | Search PubMed/PEDro, appraise papers and track evidence | [↓ ZIP](packages/chatgpt/medical-evidence-research.zip) | [↓ ZIP](packages/claude/medical-evidence-research.zip) |
-| [`physio-clinical-copilot`](skills/common/physio-clinical-copilot/SKILL.md) | Reason through cases, measures, rehabilitation and patient education | [↓ ZIP](packages/chatgpt/physio-clinical-copilot.zip) | [↓ ZIP](packages/claude/physio-clinical-copilot.zip) |
-| [`research-analyst`](skills/common/research-analyst/SKILL.md) | Research, verify claims and compare supporting and opposing evidence | [↓ ZIP](packages/chatgpt/research-analyst.zip) | [↓ ZIP](packages/claude/research-analyst.zip) |
-| [`primary-source-research`](skills/common/primary-source-research/SKILL.md) | Verify a question from official and first-party sources | [↓ ZIP](packages/chatgpt/primary-source-research.zip) | [↓ ZIP](packages/claude/primary-source-research.zip) |
-| [`gemini-deep-research`](skills/common/gemini-deep-research/SKILL.md) | Run sourced research with available Gemini integration | [↓ ZIP](packages/chatgpt/gemini-deep-research.zip) | [↓ ZIP](packages/claude/gemini-deep-research.zip) |
-| [`parallel-web`](skills/common/parallel-web/SKILL.md) | Research multiple sources with available Parallel integration | [↓ ZIP](packages/chatgpt/parallel-web.zip) | [↓ ZIP](packages/claude/parallel-web.zip) |
-| [`academic-study-coach`](skills/common/academic-study-coach/SKILL.md) | Learn a topic, summarize a paper, prepare for an exam | [↓ ZIP](packages/chatgpt/academic-study-coach.zip) | [↓ ZIP](packages/claude/academic-study-coach.zip) |
-| [`data-analyst`](skills/common/data-analyst/SKILL.md) | Analyze tables, statistics, data quality and metrics | [↓ ZIP](packages/chatgpt/data-analyst.zip) | [↓ ZIP](packages/claude/data-analyst.zip) |
-| [`ai-research-skills`](skills/common/ai-research-skills/SKILL.md) | Develop research ideas, experiments and scientific writing | [↓ ZIP](packages/chatgpt/ai-research-skills.zip) | [↓ ZIP](packages/claude/ai-research-skills.zip) |
-| [`graphify`](skills/common/graphify/SKILL.md) | Map relationships across code, documents and research | [↓ ZIP](packages/chatgpt/graphify.zip) | [↓ ZIP](packages/claude/graphify.zip) |
-| [`office-docs-qa`](skills/common/office-docs-qa/SKILL.md) | Read and check PDF, Word, spreadsheets and presentations | [↓ ZIP](packages/chatgpt/office-docs-qa.zip) | [↓ ZIP](packages/claude/office-docs-qa.zip) |
+<details open>
+<summary><strong>Everyday workflows</strong> · 1</summary>
 
-## Installation and technical boundaries
+| Skill | What it helps with |
+|---|---|
+| [purchase-advisor](docs/skills/purchase-advisor.en.md) | Compare product suitability, evidence and real total cost rather than promotional rankings. |
 
-- Full canonical sources: `skills/common/`; provider packages: `packages/chatgpt/`, `packages/claude/`, `packages/codex/`.
-- Every Claude skill has at most 200 files and a description of at most 200 characters. ZIPs include all files of the selected provider source; `ai-research-skills` has a pre-existing cloud subset and a separate full local source.
-- External services (Gemini, Parallel, Context7), local CLIs and subscriptions are not provided by these ZIPs. Report missing tools rather than simulating access.
-- Validation checks package integrity, paths, descriptions, source/package parity and hashes. It is not a live account-installation test or a clinical/financial effectiveness claim.
-- See [checksums](downloads/SHA256SUMS.txt), [provenance](PUBLICATION.md), and [third-party notices](THIRD_PARTY_NOTICES.md). Existing license and copyright files retain their scope; there is no blanket license grant over third-party content.
+</details>
 
-Clinical outputs distinguish abstracts from full texts, study quality from reporting, and statistical significance from clinical importance. Evidence workflows support professional judgment; they do not diagnose an individual or replace a clinician.
+<details open>
+<summary><strong>Learn & write</strong> · 2</summary>
 
+| Skill | What it helps with |
+|---|---|
+| [academic-study-coach](docs/skills/academic-study-coach.en.md) | Turn course material into a study plan, active recall and literature-reading practice. |
+| [office-docs-qa](docs/skills/office-docs-qa.en.md) | Check document structure, content and presentation with explicit verification boundaries. |
 
-[AI research security repair / Güvenlik düzeltmesi](AI-RESEARCH-SECURITY.md): 98 local / 10 cloud modules retained; explicit scope, privacy and permission boundaries.
+</details>
 
+<details open>
+<summary><strong>Research & analyze</strong> · 4</summary>
 
-## From question to defensible evidence / Sorudan kanıta
+| Skill | What it helps with |
+|---|---|
+| [data-analyst](docs/skills/data-analyst.en.md) | Analyze data with explicit units, missingness, assumptions and uncertainty. |
+| [parallel-web](docs/skills/parallel-web.en.md) | Retain Parallel service documentation while routing this edition to existing no-extra-cost research tools. |
+| [primary-source-research](docs/skills/primary-source-research.en.md) | Answer from official documents, specifications, source code and first-party records. |
+| [research-analyst](docs/skills/research-analyst.en.md) | Coordinate quick or deep research, claim verification, synthesis and timestamped video analysis. |
 
-1. Define a PICO/PECO or diagnostic/measurement question, population, outcomes and eligibility criteria.
-2. Search PubMed/MEDLINE and relevant PEDro, DiTA, Cochrane/CENTRAL and allied-health sources. Combine controlled vocabulary with text synonyms; translate syntax per database. Add Turkish/English TR Dizin, DergiPark and YÖK searches when relevant.
-3. Record database, exact query, date, filters and retrieval count; deduplicate and explain screening decisions. Track access limits rather than claiming inaccessible sources were searched.
-4. Verify DOI/PMID, publication version, peer review, corrections/retractions and full-text access. Use study-design-appropriate appraisal; separate risk of bias from reporting quality, effect sizes from p-values, and ICC/SEM/MDC/MCID from each other.
-5. Compare supporting and conflicting findings, applicability, uncertainty and clinical importance. Do not present an abstract-only read as a full-text appraisal. Reuse a saved query for updates; actual recurring alerts require user scheduling authorization.
+</details>
 
-See the skill's [source map](skills/common/medical-evidence-research/references/source-map.md) and [search strategy](skills/common/medical-evidence-research/references/search-strategy.md). Youthall and Marmara's supplied pages are discovery guides; DergiPark hosts journals. None replaces study-level appraisal.
+<details open>
+<summary><strong>Health & rehabilitation</strong> · 1</summary>
 
-Türkçe örnek: “Literatür tara: donuk omuzda egzersiz dozu; arama dizgilerini göster, karşıt çalışmaları da bul ve klinik önemi açıkla.”
-English example: “Appraise this rehabilitation paper; verify its version, methods, effect sizes, bias and applicability, and label any unavailable full text.”
+| Skill | What it helps with |
+|---|---|
+| [medical-evidence-research](docs/skills/medical-evidence-research.en.md) | Search, appraise and synthesize medical evidence, including rehabilitation and Türkiye applicability. |
 
-<!-- END-CURRENT-SKILL-PUBLICATION -->
+</details>
 
+## What happens when a skill runs?
+
+~~~mermaid
+flowchart LR
+ A[Your goal] --> B[Match the skill]
+ B --> C[Load relevant module]
+ C --> D[Use available tools]
+ D --> E[Verify and explain]
+~~~
+
+This is the workflow, not a claim that tools ran or every result is verified. Each skill page explains an example request, trigger, mechanics, inputs/outputs and source modules.
+
+## One source. Durable collections.
+
+The canonical source is [Universal AI Skill Library](https://github.com/yigityildiz0/universal-ai-skill-library). Domain repositories are selected views of the same release—not independently edited forks. Existing links and history stay intact.
+
+[All collections / Tüm koleksiyonlar](COLLECTIONS.md) · [Legacy/community resources](LEGACY.md) · [Licenses & provenance](docs/LICENSE-SCOPE.md)
+
+## Honest scope
+
+- Installing a skill does not train a model or connect an account/tool.
+- Local files and a web-account import are different; follow the supported host flow.
+- No automatic extra billed API or model download.
+- The historical community catalog is not counted as maintained or claimed as runtime-tested.
+- Source licenses remain attached; no blanket third-party license is assumed.
+
+---
+Maintained by [Yigit Yildiz](https://github.com/yigityildiz0) · Source edition 2026.10.11

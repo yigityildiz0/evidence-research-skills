@@ -1,17 +1,16 @@
-# Third-party notices
+# Current source notices / Güncel kaynak bildirimleri
 
-## Current collection: provenance and license scope
+Original license files stay with source; missing evidence is not an MIT grant. Historical records remain in Git history.
 
-The source tree and per-module LICENSE/NOTICE files are included. Existing license grants govern their own files; this collection does not relicense copied material. Missing explicit grants are marked as not specified, not assumed to be MIT.
+| Skill | Root notices | Evidence status |
+|---|---|---|
+| academic-study-coach | not supplied / sağlanmamış | root-license-not-specified |
+| data-analyst | not supplied / sağlanmamış | root-license-not-specified |
+| medical-evidence-research | not supplied / sağlanmamış | root-license-not-specified |
+| office-docs-qa | not supplied / sağlanmamış | root-license-not-specified |
+| parallel-web | [LICENSE](skills/common/parallel-web/LICENSE) | evidence-present-scope-review |
+| primary-source-research | [LICENSE](skills/common/primary-source-research/LICENSE) | evidence-present-scope-review |
+| purchase-advisor | not supplied / sağlanmamış | root-license-not-specified |
+| research-analyst | not supplied / sağlanmamış | root-license-not-specified |
 
-- `medical-evidence-research`: `modules/content-access/LICENSE`, `modules/scientific-literature-review/LICENSE.txt`
-- `physio-clinical-copilot`: `LICENSE`
-- `research-analyst`: `modules/fact-check-workflow/LICENSE`, `modules/source-verification/LICENSE`, `modules/web-archiving/LICENSE`, `modules/weizhena-research/codex-variant/LICENSE`, `modules/weizhena-research/LICENSE`, `modules/weizhena-research-add-fields/codex-variant/LICENSE`, `modules/weizhena-research-add-fields/LICENSE`, `modules/weizhena-research-add-items/codex-variant/LICENSE`, `modules/weizhena-research-add-items/LICENSE`, `modules/weizhena-research-deep/codex-variant/LICENSE`, `modules/weizhena-research-deep/LICENSE`, `modules/weizhena-research-report/codex-variant/LICENSE`, `modules/weizhena-research-report/LICENSE`
-- `primary-source-research`: `LICENSE`
-- `gemini-deep-research`: `LICENSE`
-- `parallel-web`: `LICENSE`
-- `academic-study-coach`: `modules/academic-writing/LICENSE`
-- `data-analyst`: no explicit license file supplied by the canonical source; consult module provenance
-- `ai-research-skills`: `LICENSE`
-- `graphify`: no explicit license file supplied by the canonical source; consult module provenance
-- `office-docs-qa`: no explicit license file supplied by the canonical source; consult module provenance
+See provenance-current.json for file hashes, module notices and portability adaptations. Root evidence is not blanket rights clearance.

@@ -1,0 +1,25 @@
+{
+  "title": "Evidence & Research Skills",
+  "summary": "Source-led research, evidence appraisal, data analysis and research synthesis.",
+  "summary_tr": "Kaynak temelli araştırma, kanıt değerlendirme, veri analizi ve araştırma sentezi.",
+  "skills": [
+    "academic-study-coach",
+    "data-analyst",
+    "medical-evidence-research",
+    "office-docs-qa",
+    "parallel-web",
+    "primary-source-research",
+    "purchase-advisor",
+    "research-analyst"
+  ],
+  "topics": [
+    "agent-skills",
+    "research",
+    "evidence-based",
+    "data-analysis",
+    "literature-review"
+  ],
+  "repository": "evidence-research-skills",
+  "base_commit": "56994345418dce4925f7ee520eb8e8f121de66c2",
+  "canonical_repository": "universal-ai-skill-library"
+}
