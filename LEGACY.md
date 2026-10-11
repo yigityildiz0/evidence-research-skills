@@ -6,4 +6,4 @@ Use README and DOWNLOADS for the current edition. Old tags/downloads may contain
 
 Türkçe: Güncel kapsam current-release.json ile tanımlanır. Eski katalog ve kaynaklar izlenebilirlik için korunur; eski sayı ve test iddiaları güncel kapsam değildir. Güncel README/indirmeleri kullan. Eski sürümler farklı sağlayıcı/host varsayımları içerebilir. Gemini Deep Research güncel sürümde yoktur.
 
-[Previous README at the preserved base commit](https://github.com/yigityildiz0/evidence-research-skills/blob/56994345418dce4925f7ee520eb8e8f121de66c2/README.md).
+[Previous README at the preserved base commit](https://github.com/yigityildiz0/evidence-research-skills/blob/d8a0cc7fbd1c72c41a317f11d1620520a432f28a/README.md).
