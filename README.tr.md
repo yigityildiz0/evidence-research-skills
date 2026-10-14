@@ -7,11 +7,33 @@
 
 [English](README.md) · [Türkçe](README.tr.md)
 
+![Edition](https://img.shields.io/badge/edition-2026.10.14-0f6e8c) [![Validate](https://github.com/yigityildiz0/evidence-research-skills/actions/workflows/validate.yml/badge.svg)](https://github.com/yigityildiz0/evidence-research-skills/actions/workflows/validate.yml) [![Release](https://img.shields.io/github/v/release/yigityildiz0/evidence-research-skills?display_name=tag&sort=date)](https://github.com/yigityildiz0/evidence-research-skills/releases/latest) ![Skills](https://img.shields.io/badge/skill-9-b0303f) ![Languages](https://img.shields.io/badge/EN%20%2B%20TR-guides-e0a43a)
+
 **Kaynak temelli araştırma, kanıt değerlendirme, veri analizi ve araştırma sentezi.**
 
-8 bakımı sürdürülen giriş noktası. Göreve göre birini seç; tüm kütüphaneyi bağlama yükleme.
+9 bakımı sürdürülen giriş noktası. Göreve göre birini seç; tüm kütüphaneyi bağlama yükleme.
 
 [Başla](docs/INSTALL.md) · [Katalog](https://yigityildiz0.github.io/universal-ai-skill-library/) · [İndirmeler](DOWNLOADS.md) · [Bakım modeli](MAINTAINING.md)
+
+## Bu sürümde yeni (2026.10.14)
+
+- **presentation-studio** (yeni): düzenlenebilir PowerPoint sunumu baştan sona — hoca kuralları varsayılan, slayt planı, lisanslı gerçek fotoğraflar, JS ve Python tasarım kitleri, süreli ve okunuşlu konuşmacı notları, PowerPoint render kontrolü, `pptx_audit.py` ve sunum öncesi okuma kılavuzu.
+- `slides` artık **html-slides**: yalnız tarayıcı sunumları; PowerPoint istekleri presentation-studio'ya gider.
+- academic-study-coach, office-docs-qa, design ve design-system sunum üretimini presentation-studio'ya devreder (kırık PPTX bağlantısı düzeltildi).
+- Gemini paketleri (CLI klasörleri ve filtreli Gemini uygulaması yüklemeleri), her uygulama için kurulum tablosu ve SHA-256 özetli gerçek GitHub Release.
+
+## Hangi uygulamada?
+
+| Uygulama | Paket |
+|---|---|
+| Claude Code | taşınabilir klasör → ~/.claude/skills |
+| Claude.ai | skill başına bir yükleme ZIP'i |
+| Codex / ChatGPT desktop | Codex.zip → ~/.codex/skills |
+| ChatGPT web | hesap içe aktarma sunuyorsa eklenti ZIP'i |
+| Gemini CLI / app | ~/.gemini/skills · Skills yükleme (filtreli kopya) |
+| OpenCode · DeepSeek Harness | taşınabilir klasör + skills yolu |
+
+Ayrıntılı adımlar: [Kurulum](docs/INSTALL.md). Dosyanın diskte olması etkin olduğunu kanıtlamaz; bir örnek istekle dene.
 
 ## Yapmak istediğin işi seç
 
@@ -43,6 +65,15 @@
 | [parallel-web](docs/skills/parallel-web.tr.md) | Parallel belgelerini korur; bu sürümde ek ücret gerektirmeyen mevcut araştırma araçlarını kullanır. |
 | [primary-source-research](docs/skills/primary-source-research.tr.md) | Resmî belge, spesifikasyon, kaynak kodu ve birincil kayıtlardan yanıt üretir. |
 | [research-analyst](docs/skills/research-analyst.tr.md) | Hızlı/derin araştırma, iddia doğrulama, sentez ve zaman damgalı video analizini yönlendirir. |
+
+</details>
+
+<details open>
+<summary><strong>Tasarım ve üretim</strong> · 1</summary>
+
+| Skill | Ne işe yarar? |
+|---|---|
+| [presentation-studio](docs/skills/presentation-studio.tr.md) | Düzenlenebilir PowerPoint sunumunu baştan sona hazırlar: hoca kuralları varsayılan, slayt planı, lisanslı gerçek fotoğraflar, tasarım kiti, süreli ve okunuşlu konuşmacı notları, render kontrolü ve denetim. |
 
 </details>
 
@@ -82,4 +113,4 @@ Ana kaynak [Universal AI Skill Library](https://github.com/yigityildiz0/universa
 - Kaynak lisansları korunur; bütün üçüncü taraf içeriğine tek lisans varsayılmaz.
 
 ---
-Maintained by [Yigit Yildiz](https://github.com/yigityildiz0) · Source edition 2026.10.11
+Maintained by [Yigit Yildiz](https://github.com/yigityildiz0) · Source edition 2026.10.14

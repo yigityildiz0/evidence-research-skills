@@ -1,11 +1,11 @@
 {
-  "edition": "2026.10.11",
+  "edition": "2026.10.14",
   "files": [
     {
       "path": "academic-study-coach/modules/academic-presentations/MODULE.md",
-      "source_sha256": "463e11f3885cccfbf4bfd61cdc13fad659064283aeb26f4d017b591bf3f1f1b5",
-      "published_sha256": "463e11f3885cccfbf4bfd61cdc13fad659064283aeb26f4d017b591bf3f1f1b5",
-      "bytes": 2333,
+      "source_sha256": "71ba65bf04ff9e6a95912b4e4ce58b626d6105fe5fa951874cfaacd53cc23f9b",
+      "published_sha256": "71ba65bf04ff9e6a95912b4e4ce58b626d6105fe5fa951874cfaacd53cc23f9b",
+      "bytes": 2611,
       "legal_notice": false,
       "modified": false
     },
@@ -211,9 +211,9 @@
     },
     {
       "path": "academic-study-coach/SKILL.md",
-      "source_sha256": "45c2772f7b5de27beef361908e9bc0955090fde1c01601f8e5ea15650d511710",
-      "published_sha256": "f3babfacd400e2a76944bb9799e7021fdbb5808f5824e049239c44fc1c28e9e3",
-      "bytes": 7425,
+      "source_sha256": "22f84a82ba043c3fea5126d6dbdda33c362c6c98f35a67a9531f08945cda8acc",
+      "published_sha256": "7a4e0088621265293eb460f04570eab022b4f3dbf7cb156cb80037d9c6328dd3",
+      "bytes": 7608,
       "legal_notice": false,
       "modified": true
     },
@@ -499,9 +499,9 @@
     },
     {
       "path": "office-docs-qa/modules/file-reading-workflow/MODULE.md",
-      "source_sha256": "7946f4800d9ae0cc2bfea02567f2befe19adbe68f07c77e7ce817806e1d859e9",
-      "published_sha256": "7946f4800d9ae0cc2bfea02567f2befe19adbe68f07c77e7ce817806e1d859e9",
-      "bytes": 3565,
+      "source_sha256": "b6c92b1f37a650b396559571955ae1cc07e3e2aaf444e08e72c0d3e9fba8f3ba",
+      "published_sha256": "b6c92b1f37a650b396559571955ae1cc07e3e2aaf444e08e72c0d3e9fba8f3ba",
+      "bytes": 3602,
       "legal_notice": false,
       "modified": false
     },
@@ -547,9 +547,9 @@
     },
     {
       "path": "office-docs-qa/SKILL.md",
-      "source_sha256": "a2d5ea31da88abd36ef2991267d22713dc26799ec2e42ed392e8b6d51e204a32",
-      "published_sha256": "83eb3462ad7e409d35b6a0aa14c263eebfdd22d8bc19062539166a10ff090ef7",
-      "bytes": 3991,
+      "source_sha256": "a40d3b54920f52dae817b570d5e1be0f3f124443fce47520dcc694b42e8d7a6b",
+      "published_sha256": "ed88566cd0e684fc2028733f558c9e1079bad3db2fd22c58d44c775a88a3051a",
+      "bytes": 4005,
       "legal_notice": false,
       "modified": true
     },
@@ -760,6 +760,214 @@
       "bytes": 4534,
       "legal_notice": false,
       "modified": true
+    },
+    {
+      "path": "presentation-studio/assets/deck-kit/build.js",
+      "source_sha256": "5a923fec397a3e17b16224286fc61194db4b435170788ab20bf91913e18f6627",
+      "published_sha256": "5a923fec397a3e17b16224286fc61194db4b435170788ab20bf91913e18f6627",
+      "bytes": 8149,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/assets/deck-kit/deck.example.json",
+      "source_sha256": "9c4ef764716b1b7124d8174637231ff9bee82b2df0265135c78e1cdb597128bf",
+      "published_sha256": "9c4ef764716b1b7124d8174637231ff9bee82b2df0265135c78e1cdb597128bf",
+      "bytes": 5753,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/assets/deck-kit/kit.js",
+      "source_sha256": "04ca712aca9e72b2e4aaef344f5a215d6c9b068998e1d7892f267208e0ac567b",
+      "published_sha256": "04ca712aca9e72b2e4aaef344f5a215d6c9b068998e1d7892f267208e0ac567b",
+      "bytes": 24476,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/assets/deck-kit-py/deck_kit.py",
+      "source_sha256": "25506214782890657fe58c02a4726b6639e5abf093b286c01acb99af0c19250b",
+      "published_sha256": "25506214782890657fe58c02a4726b6639e5abf093b286c01acb99af0c19250b",
+      "bytes": 33239,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/evals/trigger-cases.json",
+      "source_sha256": "b07283fe2e18fa94ecdefb9ea0f7a2c69581a5f5dfef020f681547f58e5b79a4",
+      "published_sha256": "b07283fe2e18fa94ecdefb9ea0f7a2c69581a5f5dfef020f681547f58e5b79a4",
+      "bytes": 2457,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/KULLANIM-KILAVUZU.md",
+      "source_sha256": "e3ab0965df3680deadf6053fc70f26cf84b737a5c2c1ae4b10568d02cb6633f0",
+      "published_sha256": "e3ab0965df3680deadf6053fc70f26cf84b737a5c2c1ae4b10568d02cb6633f0",
+      "bytes": 11165,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/LICENSE",
+      "source_sha256": "5332b0a3bf1d35f38d023d758297f4e5f2eca8e9d16f4559e7bd24f39a395ffd",
+      "published_sha256": "5332b0a3bf1d35f38d023d758297f4e5f2eca8e9d16f4559e7bd24f39a395ffd",
+      "bytes": 1064,
+      "legal_notice": true,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/references/academic-content.md",
+      "source_sha256": "f93603a00f3b4a38e422a0d8857b48ad116930c91a58bc3b1801486feb71a8d2",
+      "published_sha256": "f93603a00f3b4a38e422a0d8857b48ad116930c91a58bc3b1801486feb71a8d2",
+      "bytes": 4974,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/references/brief-and-rules.md",
+      "source_sha256": "fefd0aa2a90119989d990ca75626d96b55104ef65694ca51ac50a9af0fd10ab7",
+      "published_sha256": "fefd0aa2a90119989d990ca75626d96b55104ef65694ca51ac50a9af0fd10ab7",
+      "bytes": 6079,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/references/course-profiles.md",
+      "source_sha256": "e34a20f4b51824b9d5e54ec3c8b0fe9615b3d5e322f6915d48a210da657b8026",
+      "published_sha256": "e34a20f4b51824b9d5e54ec3c8b0fe9615b3d5e322f6915d48a210da657b8026",
+      "bytes": 3705,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/references/design-system.md",
+      "source_sha256": "f224d8e5fb4589ad1bce604844345c78f363369603226bec71412b5c187347bf",
+      "published_sha256": "f224d8e5fb4589ad1bce604844345c78f363369603226bec71412b5c187347bf",
+      "bytes": 6845,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/references/general-presentations.md",
+      "source_sha256": "46178e1c9947473b0b82e907a2ece2560b67e14859ba0489231dbaa97d103ad6",
+      "published_sha256": "46178e1c9947473b0b82e907a2ece2560b67e14859ba0489231dbaa97d103ad6",
+      "bytes": 1794,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/references/production-by-host.md",
+      "source_sha256": "81773cdf15eec590ab0b17efe95f444d5d9ef71da3a36fa0ec6f2620bfc2c55a",
+      "published_sha256": "81773cdf15eec590ab0b17efe95f444d5d9ef71da3a36fa0ec6f2620bfc2c55a",
+      "bytes": 4453,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/references/qa-and-delivery.md",
+      "source_sha256": "9dc6e6c0f60e67c1e4d9c1d53d8ddad4d975c6104f4e48e821901dc9344dd9e1",
+      "published_sha256": "9dc6e6c0f60e67c1e4d9c1d53d8ddad4d975c6104f4e48e821901dc9344dd9e1",
+      "bytes": 4484,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/references/speaker-notes.md",
+      "source_sha256": "d3bfb64377e13a91edb34553db2c8580ce788e58b42bf4cabe8a41c03c88cb47",
+      "published_sha256": "d3bfb64377e13a91edb34553db2c8580ce788e58b42bf4cabe8a41c03c88cb47",
+      "bytes": 4727,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/references/visuals-and-images.md",
+      "source_sha256": "4bf15059df86d29372420ff0d433cf2a2afeb2ec5a0a27e8bfe25cec3722d177",
+      "published_sha256": "4bf15059df86d29372420ff0d433cf2a2afeb2ec5a0a27e8bfe25cec3722d177",
+      "bytes": 4519,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/scripts/contact_sheet.py",
+      "source_sha256": "ce9c68b727702ad100bbc1b761bda0f0ef6d3c671d052706a7ec2871c8632cee",
+      "published_sha256": "ce9c68b727702ad100bbc1b761bda0f0ef6d3c671d052706a7ec2871c8632cee",
+      "bytes": 1999,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/scripts/find_images.py",
+      "source_sha256": "3d3d92267e54d727208ec6047ab20a032fc86353c2305b1ce428334ef793fd51",
+      "published_sha256": "3d3d92267e54d727208ec6047ab20a032fc86353c2305b1ce428334ef793fd51",
+      "bytes": 6903,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/scripts/make_reading_guide.py",
+      "source_sha256": "ebc4a6b245d48498adc480a17a07eff685fa049262b2ff81666551635b1f9080",
+      "published_sha256": "ebc4a6b245d48498adc480a17a07eff685fa049262b2ff81666551635b1f9080",
+      "bytes": 11265,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/scripts/pptx_audit.py",
+      "source_sha256": "0b49f0567d6696257c57e85f7c938625980153a59b95e052b5400ba21e59476e",
+      "published_sha256": "0b49f0567d6696257c57e85f7c938625980153a59b95e052b5400ba21e59476e",
+      "bytes": 12183,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/scripts/render_pptx.ps1",
+      "source_sha256": "8a174d988d0b0364413de7d2119e24af4ecd7e5c1c291183f3505a456d71aa3a",
+      "published_sha256": "8a174d988d0b0364413de7d2119e24af4ecd7e5c1c291183f3505a456d71aa3a",
+      "bytes": 1525,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/SKILL.md",
+      "source_sha256": "54a767fe478a0969cc454b6e60036a7bd13ce562e9f992c490eeddc3d04bc194",
+      "published_sha256": "f6109d5684ab62f5792e27728df8810060c676ed88021b1005636ae68419b9e1",
+      "bytes": 8351,
+      "legal_notice": false,
+      "modified": true
+    },
+    {
+      "path": "presentation-studio/templates/brief.md",
+      "source_sha256": "00032252692f53d19772a312a8c8616561fd7d78dc5162b4242e636e639d96d0",
+      "published_sha256": "00032252692f53d19772a312a8c8616561fd7d78dc5162b4242e636e639d96d0",
+      "bytes": 1653,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/templates/claims.json",
+      "source_sha256": "6c64c8f9f079bb0000865a083672d5c8b62f03be52aafecbf079e4333893636d",
+      "published_sha256": "6c64c8f9f079bb0000865a083672d5c8b62f03be52aafecbf079e4333893636d",
+      "bytes": 792,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/templates/deck-plan.md",
+      "source_sha256": "f571666dcacb3abff6bf1a17016db63ee03e29f449e0b640df7f4de02d5a7f79",
+      "published_sha256": "f571666dcacb3abff6bf1a17016db63ee03e29f449e0b640df7f4de02d5a7f79",
+      "bytes": 835,
+      "legal_notice": false,
+      "modified": false
+    },
+    {
+      "path": "presentation-studio/templates/ledger.md",
+      "source_sha256": "e52e8dea493e2cfd3c8964ca77c0f3429ae63fd946c0a2620ed018869fac6a6c",
+      "published_sha256": "e52e8dea493e2cfd3c8964ca77c0f3429ae63fd946c0a2620ed018869fac6a6c",
+      "bytes": 782,
+      "legal_notice": false,
+      "modified": false
     },
     {
       "path": "primary-source-research/agents/openai.yaml",
@@ -1542,6 +1750,21 @@
       "status": "evidence-present-scope-review"
     },
     {
+      "skill": "presentation-studio",
+      "declared": null,
+      "root_license_files": [
+        "presentation-studio/LICENSE"
+      ],
+      "notice_files": [
+        {
+          "path": "presentation-studio/LICENSE",
+          "sha256": "5332b0a3bf1d35f38d023d758297f4e5f2eca8e9d16f4559e7bd24f39a395ffd"
+        }
+      ],
+      "modules_without_local_or_root_notice": [],
+      "status": "evidence-present-scope-review"
+    },
+    {
       "skill": "primary-source-research",
       "declared": null,
       "root_license_files": [
@@ -1742,6 +1965,10 @@
     },
     {
       "path": "parallel-web/SKILL.md",
+      "reason": "portable host adaptation / private machine context removal"
+    },
+    {
+      "path": "presentation-studio/SKILL.md",
       "reason": "portable host adaptation / private machine context removal"
     },
     {
