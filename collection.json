@@ -8,6 +8,7 @@
     "medical-evidence-research",
     "office-docs-qa",
     "parallel-web",
+    "pdf-studio",
     "presentation-studio",
     "primary-source-research",
     "purchase-advisor",
@@ -21,6 +22,6 @@
     "literature-review"
   ],
   "repository": "evidence-research-skills",
-  "base_commit": "90e9b3ca593cfebb29384d0d5470b2ab162af882",
+  "base_commit": "aa8fb7869dba393a144f718570bcabb54b486571",
   "canonical_repository": "universal-ai-skill-library"
 }

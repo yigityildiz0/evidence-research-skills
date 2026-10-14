@@ -9,6 +9,7 @@ Original license files stay with source; missing evidence is not an MIT grant. H
 | medical-evidence-research | not supplied / sağlanmamış | root-license-not-specified |
 | office-docs-qa | not supplied / sağlanmamış | root-license-not-specified |
 | parallel-web | [LICENSE](skills/common/parallel-web/LICENSE) | evidence-present-scope-review |
+| pdf-studio | [LICENSE](skills/common/pdf-studio/LICENSE) | evidence-present-scope-review |
 | presentation-studio | [LICENSE](skills/common/presentation-studio/LICENSE) | evidence-present-scope-review |
 | primary-source-research | [LICENSE](skills/common/primary-source-research/LICENSE) | evidence-present-scope-review |
 | purchase-advisor | not supplied / sağlanmamış | root-license-not-specified |
